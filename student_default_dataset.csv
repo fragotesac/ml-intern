@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Program_of_Study,Year_of_Study,GPA,Attendance_Rate,Scholarship_Recipient,Parental_Income,Employment_Status,Previous_Payment_History,Outstanding_Loan_Amount,Extracurricular_Involvement,Default_Status
+1,24,Female,Business,3,3.39,70,No,92888,Part-time,On-time,255,Yes,Not Defaulted
+2,21,Female,Engineering,4,2.85,82,Yes,99351,Unemployed,On-time,1502,No,Not Defaulted
+3,22,Female,Education,1,3.71,73,No,79999,Full-time,On-time,4656,Yes,Not Defaulted
+4,24,Male,Engineering,2,2.8,89,No,42446,Full-time,On-time,10302,Yes,Not Defaulted
+5,20,Female,Education,4,2.82,87,Yes,60733,Part-time,Late,5430,No,Not Defaulted
+6,22,Female,Arts,1,1.26,75,No,78632,Part-time,On-time,8598,No,Not Defaulted
+7,22,Male,Science,2,3.2,72,No,51576,Unemployed,On-time,11041,No,Defaulted
+8,24,Male,Arts,3,2.34,92,No,33320,Full-time,On-time,3176,Yes,Not Defaulted
+9,19,Other,Business,2,2.72,82,No,40750,Part-time,Late,1860,Yes,Not Defaulted
+10,20,Female,Engineering,4,2.49,96,Yes,83463,Part-time,Late,6158,Yes,Not Defaulted
+11,24,Male,Education,3,2.82,85,No,56572,Unemployed,Late,5806,Yes,Not Defaulted
+12,20,Female,Education,1,3.22,96,No,47948,Unemployed,On-time,4354,No,Not Defaulted
+13,20,Male,Engineering,3,3.01,74,No,68826,Part-time,Late,722,No,Not Defaulted
+14,22,Male,Engineering,1,3.35,73,No,57867,Part-time,On-time,7579,Yes,Not Defaulted
+15,21,Male,Business,1,3.63,90,No,90231,Part-time,On-time,9474,Yes,Not Defaulted
+16,20,Male,Arts,2,2.82,77,No,96262,Unemployed,Late,613,Yes,Defaulted
+17,23,Male,Education,2,2.76,88,Yes,74678,Unemployed,On-time,3331,Yes,Not Defaulted
+18,22,Male,Business,2,3.48,83,Yes,42963,Unemployed,On-time,5790,Yes,Not Defaulted
+19,19,Female,Arts,4,3.52,76,Yes,94360,Unemployed,On-time,3116,No,Not Defaulted
+20,21,Male,Business,4,3.37,100,No,79434,Part-time,On-time,10170,No,Not Defaulted
+21,23,Male,Education,2,2.52,83,No,96617,Unemployed,Late,9004,No,Not Defaulted
+22,23,Female,Engineering,4,3.21,75,No,50269,Unemployed,On-time,9978,Yes,Not Defaulted
+23,19,Male,Engineering,3,3.05,81,No,67528,Part-time,On-time,330,No,Not Defaulted
+24,21,Female,Arts,3,3.53,85,No,95602,Part-time,On-time,2212,No,Not Defaulted
+25,22,Male,Science,4,2.71,86,No,63332,Unemployed,On-time,9408,No,Not Defaulted
+26,18,Male,Arts,4,2.17,82,No,99206,Unemployed,On-time,13832,Yes,Defaulted
+27,21,Male,Science,3,3.35,92,No,32251,Part-time,On-time,5493,No,Not Defaulted
+28,19,Male,Business,1,1.72,83,No,75717,Unemployed,On-time,7232,No,Not Defaulted
+29,23,Male,Business,3,2.63,98,No,57027,Unemployed,On-time,12674,No,Not Defaulted
+30,22,Male,Education,3,2.49,76,No,39583,Part-time,Late,5614,Yes,Defaulted
+31,21,Male,Science,4,2.49,83,No,80387,Part-time,On-time,5913,Yes,Not Defaulted
+32,18,Male,Education,3,2.63,84,No,53104,Part-time,On-time,5913,Yes,Not Defaulted
+33,18,Male,Engineering,4,3.61,81,No,42224,Unemployed,On-time,14102,Yes,Defaulted
+34,20,Male,Science,4,3.41,86,No,90624,Part-time,On-time,11529,No,Not Defaulted
+35,20,Male,Arts,2,2.87,78,Yes,86058,Part-time,Late,10567,Yes,Defaulted
+36,24,Female,Engineering,3,3.57,91,No,59299,Unemployed,Late,5611,Yes,Not Defaulted
+37,19,Female,Engineering,1,2.47,84,Yes,34141,Unemployed,On-time,9432,Yes,Defaulted
+38,21,Male,Arts,2,2.4,81,No,53350,Part-time,Late,319,Yes,Not Defaulted
+39,21,Female,Engineering,4,3.43,71,No,35077,Full-time,On-time,8085,Yes,Not Defaulted
+40,24,Female,Science,4,3.29,74,No,76015,Full-time,On-time,12686,No,Not Defaulted
+41,23,Male,Education,1,2.77,82,Yes,89180,Unemployed,On-time,10106,No,Not Defaulted
+42,23,Female,Engineering,4,2.43,96,No,70857,Unemployed,On-time,4200,Yes,Not Defaulted
+43,24,Female,Science,3,3.73,89,No,89840,Part-time,On-time,4791,Yes,Not Defaulted
+44,23,Male,Business,2,2.14,92,Yes,89902,Unemployed,Late,329,Yes,Defaulted
+45,20,Male,Science,4,2.7,77,No,35577,Unemployed,On-time,8851,Yes,Defaulted
+46,21,Female,Education,4,3.11,96,No,50002,Unemployed,Late,11880,No,Defaulted
+47,24,Female,Science,1,3.9,83,No,80711,Unemployed,Late,11310,No,Defaulted
+48,21,Male,Arts,3,3.19,84,Yes,69451,Full-time,On-time,6742,No,Not Defaulted
+49,18,Male,Education,4,3.24,80,No,79103,Part-time,On-time,4916,No,Not Defaulted
+50,20,Male,Business,1,2.72,70,No,58647,Unemployed,On-time,10164,Yes,Defaulted
+51,22,Female,Arts,4,3.28,90,No,64831,Unemployed,Late,14976,No,Defaulted
+52,20,Female,Science,1,3.05,100,No,96830,Unemployed,On-time,1793,No,Not Defaulted
+53,24,Male,Education,1,2.21,72,Yes,66833,Part-time,On-time,6457,No,Not Defaulted
+54,22,Male,Business,3,3.4,86,Yes,54398,Unemployed,On-time,11410,Yes,Not Defaulted
+55,18,Female,Arts,4,3.49,97,Yes,91554,Unemployed,On-time,8125,No,Not Defaulted
+56,24,Male,Business,3,3.4,88,No,80755,Part-time,On-time,12749,No,Not Defaulted
+57,19,Male,Science,1,3.02,83,Yes,47706,Full-time,On-time,5703,No,Not Defaulted
+58,21,Female,Business,2,2.52,91,Yes,52340,Unemployed,On-time,10725,Yes,Not Defaulted
+59,18,Female,Engineering,4,1.85,99,No,94994,Unemployed,On-time,13963,No,Defaulted
+60,21,Female,Arts,2,3.08,92,Yes,93884,Full-time,On-time,10649,No,Not Defaulted
+61,23,Female,Business,4,3.54,77,Yes,47482,Unemployed,On-time,6170,No,Defaulted
+62,19,Male,Science,3,3.5,82,No,84225,Part-time,On-time,11292,No,Not Defaulted
+63,19,Male,Science,3,3.41,96,Yes,88849,Full-time,On-time,12558,No,Not Defaulted
+64,18,Female,Business,3,2.96,89,No,71256,Unemployed,On-time,10925,Yes,Not Defaulted
+65,19,Male,Science,3,3.54,72,No,44650,Unemployed,On-time,6644,No,Defaulted
+66,22,Male,Education,3,3.46,74,No,76118,Unemployed,On-time,7420,Yes,Not Defaulted
+67,19,Male,Education,2,2.79,78,No,58930,Unemployed,On-time,12672,No,Defaulted
+68,21,Male,Education,3,3.34,98,No,41801,Part-time,On-time,4155,Yes,Not Defaulted
+69,21,Male,Engineering,1,2.73,75,No,81360,Unemployed,On-time,13418,No,Defaulted
+70,24,Male,Business,1,3.27,100,No,46559,Part-time,On-time,8411,No,Not Defaulted
+71,21,Male,Engineering,2,2.35,94,No,62334,Part-time,Late,13752,No,Defaulted
+72,24,Male,Science,4,2.39,100,No,43288,Part-time,Late,11010,No,Defaulted
+73,21,Female,Engineering,1,3.53,91,No,52398,Full-time,Late,10098,No,Not Defaulted
+74,22,Female,Science,4,3.47,71,No,42191,Part-time,Late,2611,No,Defaulted
+75,24,Female,Science,2,3.32,82,Yes,48051,Part-time,On-time,5691,Yes,Not Defaulted
+76,20,Female,Arts,4,3.04,74,Yes,91715,Part-time,On-time,2593,Yes,Not Defaulted
+77,23,Female,Education,4,1.8,97,Yes,40737,Part-time,On-time,95,Yes,Not Defaulted
+78,18,Male,Science,4,2.96,96,No,95140,Unemployed,On-time,9180,Yes,Not Defaulted
+79,21,Female,Arts,4,3.23,94,No,55251,Full-time,On-time,9304,No,Not Defaulted
+80,19,Female,Education,2,2.73,77,No,80975,Part-time,Late,6041,No,Not Defaulted
+81,21,Female,Science,1,2.64,92,No,35147,Unemployed,On-time,10470,No,Defaulted
+82,19,Male,Science,3,3.72,70,No,80508,Unemployed,On-time,5063,Yes,Not Defaulted
+83,23,Male,Engineering,4,2.97,89,Yes,82224,Unemployed,On-time,14610,Yes,Not Defaulted
+84,23,Male,Engineering,1,3.23,81,Yes,49643,Part-time,On-time,8437,No,Not Defaulted
+85,23,Male,Education,1,3.39,92,No,68967,Unemployed,On-time,10350,No,Not Defaulted
+86,19,Female,Science,2,2.5,80,No,70733,Part-time,Late,12521,Yes,Not Defaulted
+87,21,Female,Business,1,3.1,76,No,64808,Part-time,On-time,3349,No,Not Defaulted
+88,23,Male,Engineering,2,3.66,84,No,97288,Part-time,Late,7644,No,Not Defaulted
+89,22,Other,Education,4,3.91,91,Yes,88959,Unemployed,On-time,6560,Yes,Not Defaulted
+90,24,Female,Science,4,3.02,93,No,31849,Part-time,Late,10917,No,Defaulted
+91,19,Male,Science,3,2.88,80,No,98178,Part-time,On-time,5247,Yes,Not Defaulted
+92,19,Male,Business,3,3.13,98,Yes,97136,Part-time,On-time,5356,No,Not Defaulted
+93,21,Male,Education,3,3.12,91,No,90740,Unemployed,On-time,4077,Yes,Not Defaulted
+94,19,Male,Science,1,3.69,95,No,74565,Unemployed,Late,4898,Yes,Not Defaulted
+95,19,Male,Engineering,4,2.5,85,No,50183,Part-time,Late,10858,No,Not Defaulted
+96,23,Male,Business,2,2.86,72,No,31132,Unemployed,On-time,11391,Yes,Defaulted
+97,21,Male,Education,3,2.44,89,No,68259,Unemployed,On-time,10946,No,Defaulted
+98,23,Male,Business,2,2.49,83,Yes,93668,Unemployed,Late,1417,Yes,Defaulted
+99,24,Female,Engineering,2,3.19,72,No,68563,Part-time,On-time,14810,Yes,Not Defaulted
+100,24,Male,Education,3,3.4,70,No,40931,Unemployed,On-time,8846,Yes,Defaulted
+101,23,Female,Business,4,2.68,100,Yes,80639,Part-time,On-time,10634,Yes,Not Defaulted
+102,24,Male,Arts,3,3.39,95,Yes,88901,Unemployed,On-time,110,No,Not Defaulted
+103,21,Other,Engineering,2,3.56,90,No,31044,Part-time,Late,8281,Yes,Not Defaulted
+104,18,Male,Engineering,3,3.97,84,No,76691,Part-time,Late,8954,No,Not Defaulted
+105,23,Male,Engineering,2,3.03,70,Yes,54363,Part-time,On-time,13591,No,Not Defaulted
+106,22,Other,Arts,2,2.68,86,No,76694,Unemployed,On-time,13644,No,Not Defaulted
+107,22,Female,Arts,3,2.5,71,No,31582,Part-time,Late,7391,Yes,Defaulted
+108,19,Female,Science,1,2.45,98,Yes,96844,Unemployed,On-time,11364,No,Defaulted
+109,24,Male,Business,3,3.62,89,Yes,51301,Part-time,Late,10371,Yes,Not Defaulted
+110,22,Male,Science,1,2.24,75,No,31620,Unemployed,On-time,5132,Yes,Defaulted
+111,19,Female,Business,2,3.61,77,Yes,92224,Unemployed,On-time,2504,Yes,Not Defaulted
+112,18,Female,Arts,2,2.57,98,No,86655,Unemployed,Late,9656,Yes,Not Defaulted
+113,21,Female,Arts,1,2.66,85,Yes,67534,Unemployed,On-time,8289,Yes,Not Defaulted
+114,21,Female,Science,2,2.92,88,No,69390,Unemployed,On-time,5239,No,Not Defaulted
+115,21,Male,Education,1,2.65,70,No,85856,Part-time,On-time,292,Yes,Not Defaulted
+116,22,Female,Science,1,3.47,72,No,79252,Unemployed,On-time,10031,Yes,Defaulted
+117,18,Male,Business,2,3.91,97,No,85809,Part-time,On-time,1734,No,Not Defaulted
+118,22,Male,Science,4,2.67,72,No,52259,Unemployed,Late,5120,Yes,Defaulted
+119,24,Male,Engineering,1,2.78,74,No,50655,Unemployed,Late,10811,Yes,Defaulted
+120,22,Female,Business,3,2.92,96,No,63005,Part-time,On-time,6393,Yes,Not Defaulted
+121,18,Male,Business,3,3.27,81,Yes,61629,Part-time,On-time,12939,No,Not Defaulted
+122,18,Male,Education,2,2.92,81,No,53610,Full-time,On-time,2196,Yes,Not Defaulted
+123,24,Female,Arts,4,3.69,89,Yes,87184,Unemployed,On-time,3466,Yes,Not Defaulted
+124,18,Male,Business,2,3.57,82,No,51602,Unemployed,On-time,14379,No,Not Defaulted
+125,18,Female,Arts,4,2.41,89,No,41110,Unemployed,Late,1906,No,Defaulted
+126,21,Male,Science,1,3.26,78,No,36073,Unemployed,On-time,1721,No,Defaulted
+127,24,Female,Engineering,1,3.76,76,Yes,40195,Unemployed,Late,11883,No,Defaulted
+128,20,Female,Education,1,2.75,73,No,31537,Part-time,On-time,13355,Yes,Defaulted
+129,20,Male,Arts,1,2.85,88,No,47138,Part-time,On-time,14497,Yes,Not Defaulted
+130,18,Male,Business,3,2.74,91,No,74328,Unemployed,On-time,1816,Yes,Not Defaulted
+131,20,Male,Arts,3,2.75,88,No,76202,Unemployed,On-time,8444,Yes,Not Defaulted
+132,20,Male,Business,2,2.17,75,Yes,70164,Unemployed,On-time,4227,Yes,Defaulted
+133,18,Other,Arts,4,2.34,96,No,84659,Full-time,Late,11711,Yes,Defaulted
+134,20,Male,Business,1,3.04,82,No,79692,Part-time,On-time,10099,No,Not Defaulted
+135,22,Female,Science,1,3.76,80,No,54845,Full-time,Late,10102,No,Not Defaulted
+136,19,Male,Business,4,2.69,82,No,60562,Part-time,On-time,10713,Yes,Not Defaulted
+137,24,Female,Business,4,2.68,82,Yes,58036,Part-time,Late,5775,No,Not Defaulted
+138,19,Female,Engineering,2,3.85,97,Yes,90752,Unemployed,On-time,3849,Yes,Not Defaulted
+139,18,Female,Business,4,2.45,94,No,98681,Part-time,Late,5228,Yes,Not Defaulted
+140,21,Male,Engineering,1,2.17,91,Yes,57818,Unemployed,On-time,6849,No,Not Defaulted
+141,24,Male,Education,1,2.59,97,No,60544,Full-time,Late,1058,Yes,Not Defaulted
+142,18,Male,Engineering,1,2.67,89,No,92532,Unemployed,Late,11730,Yes,Defaulted
+143,21,Female,Science,1,2.13,84,Yes,87705,Part-time,On-time,14213,Yes,Not Defaulted
+144,19,Female,Engineering,1,2.94,90,No,50104,Part-time,On-time,2322,No,Not Defaulted
+145,18,Other,Education,2,3.47,82,Yes,99603,Part-time,On-time,8378,No,Not Defaulted
+146,24,Male,Science,1,2.36,91,No,89025,Unemployed,Late,948,Yes,Defaulted
+147,24,Female,Arts,2,3.04,80,Yes,62317,Unemployed,On-time,8179,No,Not Defaulted
+148,23,Female,Arts,1,3.2,88,Yes,61416,Full-time,On-time,10482,No,Not Defaulted
+149,22,Male,Engineering,3,2.96,77,No,72012,Part-time,On-time,4359,No,Not Defaulted
+150,20,Male,Engineering,3,3.09,89,No,98045,Unemployed,On-time,14285,No,Not Defaulted
+151,21,Female,Education,3,3.1,77,No,51400,Part-time,Late,12809,Yes,Defaulted
+152,23,Female,Education,3,2.59,79,No,78270,Part-time,On-time,5660,Yes,Not Defaulted
+153,20,Female,Business,2,3.75,95,No,79833,Unemployed,On-time,13070,No,Not Defaulted
+154,20,Male,Education,2,3.62,85,No,93644,Unemployed,Late,7254,No,Not Defaulted
+155,18,Female,Business,4,3.59,88,No,99468,Part-time,On-time,12822,No,Not Defaulted
+156,20,Male,Science,1,3.51,95,No,89473,Part-time,On-time,8401,No,Not Defaulted
+157,22,Male,Engineering,3,2.21,92,No,75809,Unemployed,On-time,2093,No,Not Defaulted
+158,24,Male,Science,2,3.46,80,No,68328,Part-time,On-time,11730,No,Not Defaulted
+159,23,Female,Education,1,3.33,82,No,66784,Part-time,On-time,1563,No,Not Defaulted
+160,20,Female,Science,1,2.23,97,No,53723,Unemployed,Late,8217,No,Defaulted
+161,18,Female,Science,2,2.89,78,No,90646,Unemployed,On-time,174,No,Not Defaulted
+162,22,Male,Science,3,3.14,89,No,96255,Full-time,On-time,13827,Yes,Not Defaulted
+163,19,Female,Education,4,3.83,93,No,30074,Unemployed,On-time,1334,Yes,Not Defaulted
+164,24,Male,Science,1,3.36,88,Yes,56498,Unemployed,On-time,321,Yes,Not Defaulted
+165,24,Female,Business,4,2.57,85,No,95522,Part-time,Late,5698,No,Not Defaulted
+166,23,Male,Education,3,3.85,76,Yes,50541,Unemployed,On-time,13446,No,Defaulted
+167,24,Male,Science,3,3.02,88,No,75929,Full-time,On-time,12342,No,Not Defaulted
+168,20,Male,Education,4,2.87,81,Yes,56028,Part-time,On-time,12239,Yes,Not Defaulted
+169,18,Male,Arts,3,2.84,84,No,59545,Unemployed,On-time,13854,Yes,Not Defaulted
+170,24,Female,Business,1,2.19,100,Yes,61673,Part-time,On-time,13897,No,Not Defaulted
+171,24,Female,Science,4,2.95,92,Yes,60974,Part-time,On-time,11419,Yes,Not Defaulted
+172,19,Male,Arts,3,3.25,83,No,88899,Part-time,On-time,10064,Yes,Not Defaulted
+173,19,Female,Arts,4,2.81,80,No,53097,Full-time,Late,14482,Yes,Not Defaulted
+174,21,Male,Education,1,3.21,95,Yes,94824,Unemployed,On-time,5604,Yes,Not Defaulted
+175,22,Female,Arts,3,2.57,79,No,53525,Unemployed,Late,6742,No,Defaulted
+176,20,Female,Business,1,2.93,96,No,87804,Unemployed,Late,10259,Yes,Defaulted
+177,24,Female,Business,3,3.16,80,Yes,45043,Part-time,On-time,7436,No,Not Defaulted
+178,24,Male,Engineering,2,3.09,75,Yes,71846,Part-time,On-time,8524,Yes,Not Defaulted
+179,18,Female,Business,3,2.2,71,No,80227,Part-time,On-time,5674,No,Not Defaulted
+180,21,Female,Arts,4,2.78,80,No,83028,Part-time,On-time,5002,Yes,Not Defaulted
+181,22,Male,Business,3,3.84,88,Yes,67383,Part-time,Late,11183,No,Not Defaulted
+182,21,Male,Education,1,2.75,75,No,59483,Unemployed,On-time,910,No,Not Defaulted
+183,23,Female,Engineering,1,3.01,83,No,37265,Unemployed,On-time,12688,Yes,Defaulted
+184,22,Female,Arts,3,2.96,89,No,52763,Unemployed,On-time,949,No,Not Defaulted
+185,24,Female,Engineering,4,3.78,75,No,45733,Part-time,On-time,5425,No,Not Defaulted
+186,24,Female,Arts,2,3.65,86,No,67420,Unemployed,On-time,10267,Yes,Not Defaulted
+187,22,Female,Education,4,3.4,79,No,39247,Part-time,Late,2514,Yes,Defaulted
+188,24,Male,Engineering,2,2.51,97,No,53840,Part-time,On-time,11523,No,Not Defaulted
+189,20,Male,Science,1,3.18,70,No,95149,Unemployed,Late,7701,No,Defaulted
+190,22,Male,Arts,4,3.28,72,No,51058,Unemployed,On-time,11221,Yes,Defaulted
+191,21,Female,Science,2,2.65,77,No,64929,Part-time,On-time,14198,Yes,Not Defaulted
+192,22,Male,Engineering,3,2.56,77,Yes,61362,Full-time,On-time,100,No,Not Defaulted
+193,24,Female,Science,1,3.85,96,No,77356,Part-time,On-time,4646,No,Not Defaulted
+194,20,Female,Science,3,2.85,89,No,36041,Unemployed,On-time,6945,No,Not Defaulted
+195,20,Female,Engineering,1,3.81,91,No,91954,Full-time,Late,2400,Yes,Not Defaulted
+196,23,Male,Education,4,3.5,84,No,91869,Unemployed,Late,11563,No,Defaulted
+197,21,Female,Science,4,3.2,93,No,51059,Part-time,On-time,5801,Yes,Not Defaulted
+198,19,Male,Science,1,3.23,76,Yes,74722,Part-time,On-time,2343,Yes,Not Defaulted
+199,19,Female,Education,1,2.3,80,No,47548,Full-time,On-time,352,No,Not Defaulted
+200,22,Male,Science,1,3.1,76,No,45078,Unemployed,Late,2955,No,Defaulted
+201,23,Male,Science,4,3.71,98,Yes,35419,Part-time,On-time,1018,Yes,Not Defaulted
+202,18,Female,Science,2,3.34,73,Yes,65490,Unemployed,Late,1179,Yes,Defaulted
+203,22,Male,Business,3,3.08,94,No,88760,Unemployed,On-time,5193,No,Not Defaulted
+204,23,Male,Education,3,3.86,81,Yes,60337,Unemployed,On-time,3536,No,Not Defaulted
+205,21,Female,Science,4,2.91,95,Yes,31468,Unemployed,Late,11842,No,Defaulted
+206,21,Female,Education,3,2.69,75,No,54309,Unemployed,On-time,2502,No,Not Defaulted
+207,21,Female,Arts,1,3.08,83,No,96344,Unemployed,On-time,3819,Yes,Not Defaulted
+208,21,Female,Arts,2,3.38,81,No,58718,Unemployed,On-time,6855,No,Not Defaulted
+209,21,Female,Science,3,2.14,80,No,67841,Part-time,On-time,979,No,Not Defaulted
+210,23,Male,Education,2,3.14,88,Yes,76660,Part-time,On-time,13643,No,Not Defaulted
+211,23,Male,Education,1,3.41,90,No,80281,Part-time,On-time,13026,No,Not Defaulted
+212,20,Male,Education,3,2.87,74,No,30767,Full-time,Late,976,No,Defaulted
+213,19,Female,Business,4,3.55,83,No,33895,Part-time,On-time,9563,Yes,Not Defaulted
+214,24,Female,Arts,2,3.32,90,No,88026,Unemployed,Late,2280,Yes,Not Defaulted
+215,21,Male,Education,1,4.0,93,No,72968,Part-time,On-time,5897,No,Not Defaulted
+216,18,Male,Education,2,2.62,85,No,70097,Part-time,On-time,14437,Yes,Not Defaulted
+217,24,Female,Business,3,3.42,94,No,45332,Unemployed,On-time,13240,Yes,Defaulted
+218,23,Male,Business,3,2.49,82,No,44621,Part-time,On-time,12768,No,Defaulted
+219,18,Female,Education,4,2.19,94,No,48174,Part-time,On-time,13525,No,Defaulted
+220,18,Female,Engineering,1,1.98,98,No,70502,Part-time,Late,107,Yes,Not Defaulted
+221,18,Female,Education,1,3.27,91,No,66674,Full-time,On-time,9164,No,Not Defaulted
+222,20,Male,Education,4,3.09,91,No,67260,Full-time,On-time,1626,No,Not Defaulted
+223,23,Female,Business,4,2.76,94,No,72498,Unemployed,On-time,8895,No,Not Defaulted
+224,18,Female,Business,1,2.11,89,No,97609,Unemployed,Late,14670,No,Defaulted
+225,21,Female,Education,2,2.65,91,No,79464,Full-time,Late,6229,Yes,Not Defaulted
+226,22,Female,Education,2,3.0,73,No,94919,Part-time,On-time,6877,Yes,Not Defaulted
+227,18,Female,Education,4,3.4,80,No,84469,Part-time,On-time,874,Yes,Not Defaulted
+228,20,Female,Business,2,2.99,86,No,47194,Unemployed,On-time,5543,No,Not Defaulted
+229,24,Male,Education,1,3.13,76,No,56811,Part-time,On-time,3809,No,Not Defaulted
+230,23,Female,Education,3,2.81,83,No,73723,Part-time,On-time,10603,No,Not Defaulted
+231,20,Female,Science,3,3.87,95,No,89238,Unemployed,On-time,2107,No,Not Defaulted
+232,18,Male,Engineering,2,2.49,80,No,32147,Full-time,On-time,11745,No,Defaulted
+233,23,Female,Arts,4,2.65,97,No,68445,Part-time,On-time,9465,No,Not Defaulted
+234,22,Female,Engineering,4,2.75,91,No,83803,Part-time,On-time,559,Yes,Not Defaulted
+235,18,Female,Science,4,3.27,78,Yes,91108,Unemployed,Late,8308,Yes,Defaulted
+236,20,Male,Arts,4,2.48,92,No,32013,Unemployed,Late,4969,No,Defaulted
+237,19,Male,Education,4,3.07,82,No,83502,Unemployed,On-time,13255,Yes,Not Defaulted
+238,21,Other,Science,2,3.08,92,No,67755,Full-time,On-time,3046,Yes,Not Defaulted
+239,24,Female,Education,3,2.65,87,No,38733,Unemployed,On-time,13856,No,Defaulted
+240,20,Male,Business,3,3.16,97,No,39479,Unemployed,On-time,43,Yes,Not Defaulted
+241,23,Female,Science,2,2.5,80,No,51304,Unemployed,Late,508,No,Not Defaulted
+242,18,Female,Business,4,2.44,84,No,65694,Part-time,On-time,6107,Yes,Not Defaulted
+243,21,Female,Science,2,3.05,94,No,39490,Unemployed,Late,13476,Yes,Defaulted
+244,18,Female,Science,3,2.17,95,No,51252,Part-time,Late,3439,Yes,Not Defaulted
+245,23,Male,Business,1,1.93,94,Yes,36862,Part-time,On-time,3928,No,Not Defaulted
+246,18,Male,Arts,2,3.27,91,No,99959,Unemployed,On-time,5411,Yes,Not Defaulted
+247,19,Male,Engineering,4,3.52,98,No,40450,Full-time,On-time,13136,No,Not Defaulted
+248,21,Female,Education,3,2.77,88,No,86022,Unemployed,On-time,14167,No,Not Defaulted
+249,21,Male,Science,3,2.67,70,No,91991,Part-time,On-time,916,No,Not Defaulted
+250,23,Male,Education,3,3.5,73,No,70927,Unemployed,On-time,11137,Yes,Defaulted
+251,24,Male,Business,3,2.43,83,Yes,79853,Unemployed,Late,798,Yes,Defaulted
+252,19,Female,Education,4,2.32,83,No,61826,Unemployed,On-time,4971,No,Not Defaulted
+253,20,Female,Business,1,3.35,72,Yes,72879,Part-time,On-time,1760,No,Not Defaulted
+254,18,Male,Education,3,3.0,99,No,87265,Part-time,On-time,10525,No,Not Defaulted
+255,22,Male,Engineering,2,3.53,97,No,70736,Unemployed,On-time,3275,Yes,Not Defaulted
+256,18,Female,Engineering,1,1.93,86,No,54530,Part-time,On-time,818,No,Not Defaulted
+257,18,Male,Engineering,3,2.3,72,No,77058,Unemployed,Late,10360,Yes,Defaulted
+258,20,Male,Engineering,1,3.01,85,Yes,34886,Unemployed,On-time,5040,Yes,Not Defaulted
+259,18,Male,Engineering,2,3.21,83,Yes,67387,Part-time,On-time,11927,Yes,Not Defaulted
+260,19,Male,Engineering,3,3.42,99,No,51575,Part-time,On-time,3065,Yes,Not Defaulted
+261,19,Male,Business,2,3.09,89,Yes,69643,Part-time,On-time,3259,Yes,Not Defaulted
+262,21,Female,Science,4,3.08,98,No,40100,Unemployed,Late,906,Yes,Defaulted
+263,23,Male,Education,3,2.81,82,Yes,90356,Part-time,On-time,12300,No,Not Defaulted
+264,24,Female,Engineering,3,3.8,84,No,37856,Full-time,Late,602,Yes,Not Defaulted
+265,22,Male,Business,3,2.45,83,No,68169,Full-time,On-time,4295,No,Not Defaulted
+266,18,Female,Business,3,3.18,93,Yes,58804,Unemployed,On-time,10825,Yes,Not Defaulted
+267,18,Female,Business,4,2.51,94,No,65790,Part-time,On-time,9983,Yes,Not Defaulted
+268,20,Male,Science,3,3.27,88,No,60988,Part-time,On-time,3527,Yes,Not Defaulted
+269,23,Female,Education,1,2.48,75,Yes,68506,Unemployed,On-time,4543,Yes,Defaulted
+270,19,Male,Science,3,3.37,79,No,97306,Unemployed,Late,1811,No,Defaulted
+271,22,Other,Arts,4,3.06,96,No,42305,Unemployed,On-time,12103,Yes,Defaulted
+272,21,Male,Business,3,3.87,84,No,39969,Part-time,On-time,9032,No,Not Defaulted
+273,19,Male,Arts,1,2.86,90,Yes,42404,Part-time,On-time,11334,Yes,Not Defaulted
+274,23,Male,Engineering,4,3.21,91,No,38989,Unemployed,On-time,12877,No,Defaulted
+275,24,Other,Engineering,4,2.61,89,Yes,95305,Part-time,On-time,7963,No,Not Defaulted
+276,21,Female,Science,1,2.86,95,Yes,65983,Unemployed,On-time,5249,Yes,Not Defaulted
+277,24,Female,Education,1,3.05,75,No,69462,Unemployed,On-time,10282,Yes,Defaulted
+278,20,Male,Arts,1,2.24,92,No,49360,Part-time,On-time,4615,Yes,Not Defaulted
+279,20,Female,Education,1,2.29,94,No,56287,Unemployed,On-time,9228,No,Not Defaulted
+280,18,Male,Science,1,3.3,79,No,95472,Unemployed,On-time,8916,Yes,Not Defaulted
+281,24,Female,Engineering,4,2.93,76,Yes,91313,Part-time,On-time,6766,No,Not Defaulted
+282,23,Male,Education,4,2.7,91,No,64160,Unemployed,On-time,9179,No,Not Defaulted
+283,22,Male,Education,3,2.63,86,Yes,36789,Part-time,Late,802,No,Not Defaulted
+284,21,Male,Engineering,3,2.65,87,Yes,57181,Part-time,On-time,2582,No,Not Defaulted
+285,19,Male,Arts,2,3.06,86,No,44385,Part-time,On-time,6445,No,Not Defaulted
+286,23,Female,Engineering,3,3.22,78,No,95641,Unemployed,On-time,3837,Yes,Not Defaulted
+287,23,Male,Education,3,1.95,79,No,74247,Unemployed,On-time,8718,No,Defaulted
+288,20,Female,Arts,1,3.71,79,Yes,35544,Unemployed,Late,1665,No,Defaulted
+289,24,Male,Arts,1,3.67,94,No,43275,Part-time,On-time,9330,Yes,Not Defaulted
+290,18,Female,Engineering,3,1.83,76,No,93248,Unemployed,Late,8651,No,Defaulted
+291,18,Male,Education,2,3.54,85,Yes,64550,Part-time,Late,6975,Yes,Not Defaulted
+292,21,Male,Science,1,3.53,98,No,83693,Unemployed,On-time,2552,No,Not Defaulted
+293,20,Female,Education,3,3.0,87,Yes,49641,Full-time,On-time,7475,No,Not Defaulted
+294,23,Male,Business,3,2.35,75,No,45605,Part-time,On-time,13219,Yes,Defaulted
+295,22,Male,Science,4,3.51,96,No,80713,Part-time,On-time,14274,No,Not Defaulted
+296,20,Female,Arts,2,2.88,89,Yes,50390,Unemployed,On-time,12612,Yes,Not Defaulted
+297,21,Female,Science,4,3.27,70,No,88466,Part-time,On-time,12866,Yes,Not Defaulted
+298,21,Male,Arts,2,4.0,70,No,33981,Unemployed,On-time,2808,Yes,Defaulted
+299,20,Male,Arts,1,3.13,81,Yes,39493,Part-time,On-time,11090,No,Not Defaulted
+300,21,Female,Science,2,2.54,90,No,46984,Part-time,On-time,5633,Yes,Not Defaulted
+301,20,Male,Arts,3,2.83,97,No,52760,Full-time,Late,11435,Yes,Not Defaulted
+302,19,Male,Arts,3,2.61,71,Yes,31524,Unemployed,On-time,12260,No,Defaulted
+303,20,Male,Business,2,3.22,73,No,79402,Unemployed,Late,14837,Yes,Defaulted
+304,24,Female,Education,2,2.6,86,No,95614,Part-time,On-time,6096,Yes,Not Defaulted
+305,20,Female,Education,2,2.76,73,No,65891,Part-time,On-time,14669,Yes,Not Defaulted
+306,21,Male,Business,4,2.36,80,No,69832,Part-time,On-time,10523,Yes,Not Defaulted
+307,24,Male,Science,2,2.93,91,No,75836,Unemployed,On-time,12762,Yes,Not Defaulted
+308,21,Male,Engineering,1,3.09,95,No,43362,Full-time,On-time,13365,Yes,Not Defaulted
+309,18,Female,Engineering,4,1.66,73,No,96745,Unemployed,On-time,13769,No,Defaulted
+310,18,Male,Engineering,4,3.13,70,No,67921,Unemployed,Late,13890,No,Defaulted
+311,24,Male,Business,2,2.98,76,No,48562,Part-time,On-time,13731,Yes,Defaulted
+312,19,Female,Business,1,2.62,99,No,94510,Full-time,On-time,11877,Yes,Not Defaulted
+313,18,Male,Arts,4,4.0,87,Yes,37610,Unemployed,Late,8823,Yes,Defaulted
+314,20,Female,Engineering,3,3.48,78,No,45791,Unemployed,Late,12990,No,Defaulted
+315,21,Male,Science,4,2.45,98,No,88047,Part-time,On-time,2456,Yes,Not Defaulted
+316,18,Male,Science,2,3.42,72,Yes,97906,Part-time,On-time,9173,Yes,Not Defaulted
+317,18,Male,Engineering,1,3.62,77,Yes,49665,Full-time,Late,5423,No,Defaulted
+318,19,Female,Engineering,2,3.07,98,No,95864,Part-time,On-time,14246,Yes,Not Defaulted
+319,24,Female,Engineering,3,3.18,93,No,76451,Part-time,On-time,12846,Yes,Not Defaulted
+320,24,Female,Business,3,3.17,88,No,75890,Part-time,On-time,4317,No,Not Defaulted
+321,23,Male,Business,3,1.96,73,No,36794,Unemployed,Late,1556,No,Defaulted
+322,19,Female,Business,2,2.91,87,No,62888,Part-time,On-time,2205,Yes,Not Defaulted
+323,20,Male,Education,4,2.88,89,No,36749,Part-time,Late,12635,No,Defaulted
+324,24,Male,Science,2,3.72,96,Yes,76531,Part-time,On-time,13470,Yes,Not Defaulted
+325,21,Female,Science,1,3.17,80,Yes,50608,Unemployed,Late,13176,No,Defaulted
+326,19,Male,Arts,4,2.85,96,No,99211,Unemployed,On-time,3955,Yes,Not Defaulted
+327,18,Male,Business,3,2.95,83,No,86017,Full-time,On-time,9113,No,Not Defaulted
+328,21,Male,Education,2,3.51,94,Yes,87676,Full-time,Late,13546,No,Not Defaulted
+329,21,Male,Education,3,2.91,87,No,41560,Unemployed,On-time,6805,No,Not Defaulted
+330,18,Male,Science,3,2.65,97,Yes,84401,Part-time,On-time,404,No,Not Defaulted
+331,19,Female,Business,1,2.86,97,No,80468,Part-time,On-time,13568,No,Not Defaulted
+332,18,Male,Arts,4,3.47,98,No,62463,Part-time,On-time,12964,Yes,Not Defaulted
+333,23,Female,Business,1,3.25,85,No,61663,Part-time,On-time,12876,Yes,Not Defaulted
+334,21,Female,Engineering,1,3.02,72,No,98706,Part-time,On-time,1620,No,Not Defaulted
+335,22,Male,Business,1,3.1,84,Yes,88773,Unemployed,On-time,14893,No,Not Defaulted
+336,22,Male,Engineering,3,2.72,96,No,63123,Unemployed,On-time,2952,Yes,Not Defaulted
+337,20,Male,Engineering,1,2.9,96,No,39718,Full-time,On-time,8080,No,Not Defaulted
+338,24,Female,Arts,1,2.67,100,No,92637,Unemployed,On-time,3118,No,Not Defaulted
+339,18,Male,Science,4,2.85,73,No,30028,Part-time,Late,7380,No,Defaulted
+340,18,Female,Business,4,3.67,74,No,92370,Part-time,On-time,14814,No,Not Defaulted
+341,20,Male,Engineering,1,2.46,86,No,77599,Unemployed,On-time,6630,Yes,Not Defaulted
+342,20,Female,Business,4,2.66,76,No,47397,Unemployed,Late,9786,Yes,Defaulted
+343,20,Male,Science,4,2.37,85,Yes,75406,Part-time,On-time,565,Yes,Not Defaulted
+344,21,Male,Science,1,2.26,83,Yes,77657,Full-time,Late,14859,Yes,Defaulted
+345,23,Female,Education,3,2.91,95,No,97560,Unemployed,Late,4799,No,Not Defaulted
+346,18,Female,Science,1,2.69,85,No,43503,Unemployed,Late,7670,No,Defaulted
+347,21,Male,Arts,4,3.88,76,No,84943,Unemployed,On-time,2868,No,Not Defaulted
+348,20,Female,Engineering,3,2.86,78,Yes,55345,Part-time,Late,9049,No,Not Defaulted
+349,18,Female,Education,2,3.64,73,No,80390,Part-time,Late,9476,Yes,Not Defaulted
+350,21,Female,Arts,3,3.48,99,No,89557,Full-time,On-time,8776,Yes,Not Defaulted
+351,23,Female,Business,4,2.9,99,No,95054,Part-time,On-time,4327,Yes,Not Defaulted
+352,21,Male,Engineering,3,4.0,91,No,31906,Unemployed,On-time,6413,Yes,Not Defaulted
+353,23,Male,Science,1,3.13,80,No,70167,Full-time,On-time,7614,No,Not Defaulted
+354,20,Male,Engineering,2,3.76,71,No,37961,Part-time,On-time,1245,Yes,Not Defaulted
+355,23,Female,Business,2,3.7,81,No,56140,Unemployed,On-time,8243,Yes,Not Defaulted
+356,18,Female,Education,2,3.21,81,No,88701,Full-time,On-time,10355,Yes,Not Defaulted
+357,20,Male,Education,4,3.38,99,No,58561,Part-time,On-time,537,No,Not Defaulted
+358,18,Male,Education,4,3.31,73,No,80568,Unemployed,On-time,540,Yes,Not Defaulted
+359,22,Female,Science,2,2.43,87,No,59504,Unemployed,On-time,13330,Yes,Defaulted
+360,19,Other,Arts,3,3.03,95,Yes,67146,Unemployed,Late,814,Yes,Not Defaulted
+361,23,Female,Arts,2,3.54,90,Yes,70297,Part-time,On-time,1415,No,Not Defaulted
+362,19,Male,Engineering,3,3.76,100,No,98607,Unemployed,On-time,11030,Yes,Not Defaulted
+363,19,Male,Science,3,2.64,76,No,46939,Unemployed,On-time,1652,No,Defaulted
+364,23,Male,Education,4,3.26,98,No,80715,Part-time,On-time,10857,No,Not Defaulted
+365,20,Female,Education,3,3.08,70,Yes,74460,Part-time,Late,12706,No,Defaulted
+366,22,Male,Business,2,2.94,100,No,96576,Unemployed,Late,4062,No,Not Defaulted
+367,18,Female,Business,4,3.18,95,No,98222,Part-time,On-time,2356,Yes,Not Defaulted
+368,21,Male,Education,1,3.11,95,Yes,42666,Unemployed,Late,3810,Yes,Defaulted
+369,18,Female,Education,1,3.27,92,No,92119,Full-time,On-time,9055,Yes,Not Defaulted
+370,21,Female,Science,4,3.72,95,Yes,65321,Full-time,On-time,185,No,Not Defaulted
+371,18,Female,Arts,2,3.39,82,No,31779,Part-time,On-time,12548,Yes,Not Defaulted
+372,23,Male,Business,1,3.16,75,No,43186,Unemployed,Late,1551,Yes,Defaulted
+373,22,Male,Arts,1,3.93,75,Yes,46459,Part-time,On-time,13584,No,Defaulted
+374,21,Male,Science,3,3.55,81,No,35057,Unemployed,On-time,10399,No,Defaulted
+375,24,Female,Education,3,2.95,77,No,90663,Unemployed,Late,7013,Yes,Defaulted
+376,20,Female,Arts,2,2.39,93,No,48733,Unemployed,On-time,761,No,Defaulted
+377,18,Female,Education,4,2.51,91,Yes,49157,Unemployed,On-time,12511,No,Defaulted
+378,18,Female,Education,2,3.47,88,Yes,65030,Unemployed,Late,9471,Yes,Not Defaulted
+379,21,Female,Engineering,4,2.68,74,Yes,49613,Part-time,On-time,12467,Yes,Defaulted
+380,20,Male,Arts,1,2.5,87,No,35188,Unemployed,On-time,6163,No,Not Defaulted
+381,20,Female,Arts,3,2.62,100,No,59680,Unemployed,On-time,13935,No,Not Defaulted
+382,23,Male,Education,2,2.66,99,No,90119,Part-time,On-time,12919,Yes,Not Defaulted
+383,24,Male,Science,2,3.43,74,No,85718,Part-time,On-time,7635,Yes,Not Defaulted
+384,23,Female,Engineering,4,2.92,99,No,66445,Unemployed,On-time,11886,No,Not Defaulted
+385,23,Male,Education,4,2.31,94,No,35796,Part-time,On-time,3281,No,Not Defaulted
+386,23,Male,Business,2,3.02,79,No,77218,Unemployed,On-time,1536,No,Not Defaulted
+387,23,Female,Business,4,3.11,70,Yes,69131,Full-time,Late,6201,Yes,Not Defaulted
+388,23,Male,Engineering,2,2.76,79,No,38123,Part-time,Late,3164,Yes,Defaulted
+389,22,Female,Science,2,3.58,74,Yes,38222,Unemployed,On-time,2770,No,Defaulted
+390,20,Male,Education,2,2.79,81,Yes,54074,Part-time,On-time,10155,Yes,Not Defaulted
+391,23,Male,Arts,1,3.55,91,No,59825,Full-time,Late,7399,No,Not Defaulted
+392,20,Male,Engineering,4,3.3,99,No,66839,Unemployed,On-time,3845,No,Not Defaulted
+393,20,Male,Science,3,3.46,96,Yes,98322,Full-time,On-time,3435,Yes,Not Defaulted
+394,19,Female,Arts,3,2.45,76,No,86321,Unemployed,Late,4710,No,Defaulted
+395,22,Male,Business,4,3.05,78,No,55988,Unemployed,Late,561,Yes,Defaulted
+396,23,Female,Business,2,2.97,91,No,65507,Unemployed,Late,10613,No,Defaulted
+397,18,Male,Arts,3,2.29,90,Yes,53806,Part-time,Late,4717,Yes,Not Defaulted
+398,21,Female,Engineering,3,3.55,81,Yes,66901,Part-time,On-time,7623,Yes,Not Defaulted
+399,24,Female,Business,4,2.59,92,No,47043,Unemployed,On-time,10327,No,Defaulted
+400,18,Female,Education,3,2.7,98,No,39752,Unemployed,On-time,7187,No,Not Defaulted
+401,22,Male,Arts,2,2.49,70,No,98993,Unemployed,On-time,13301,Yes,Defaulted
+402,21,Male,Arts,4,3.35,80,No,72616,Unemployed,On-time,10253,No,Not Defaulted
+403,22,Male,Business,2,2.24,99,Yes,82127,Part-time,Late,2180,Yes,Not Defaulted
+404,20,Female,Engineering,3,3.31,90,Yes,30453,Full-time,Late,1960,Yes,Not Defaulted
+405,21,Male,Education,3,3.52,84,No,40976,Full-time,On-time,3879,Yes,Not Defaulted
+406,20,Female,Engineering,2,3.27,71,Yes,63688,Part-time,Late,5153,Yes,Not Defaulted
+407,18,Female,Science,1,3.36,89,No,32017,Part-time,Late,7035,Yes,Not Defaulted
+408,18,Male,Science,3,3.38,76,No,37957,Unemployed,On-time,11471,Yes,Defaulted
+409,21,Female,Business,1,2.53,90,Yes,34792,Part-time,On-time,12076,Yes,Not Defaulted
+410,21,Male,Business,3,3.72,81,Yes,85982,Part-time,On-time,3270,Yes,Not Defaulted
+411,23,Male,Business,1,2.77,91,No,43237,Part-time,On-time,4687,Yes,Not Defaulted
+412,22,Female,Science,1,2.97,87,Yes,81586,Unemployed,On-time,582,No,Not Defaulted
+413,23,Female,Engineering,1,2.83,72,Yes,49252,Unemployed,On-time,9805,Yes,Defaulted
+414,22,Female,Engineering,2,3.25,76,No,40707,Unemployed,On-time,9293,No,Defaulted
+415,23,Male,Business,1,2.73,80,No,64206,Unemployed,On-time,288,No,Not Defaulted
+416,20,Male,Education,1,3.03,87,Yes,33543,Part-time,Late,5664,No,Not Defaulted
+417,21,Female,Engineering,1,2.38,81,No,74135,Unemployed,On-time,7979,No,Not Defaulted
+418,18,Female,Science,3,3.58,75,No,65031,Part-time,Late,3859,No,Not Defaulted
+419,22,Female,Arts,1,3.34,74,No,72929,Part-time,On-time,3060,Yes,Not Defaulted
+420,22,Male,Arts,3,2.85,95,No,95747,Unemployed,On-time,11118,No,Not Defaulted
+421,18,Female,Arts,1,2.77,70,No,87851,Unemployed,Late,13731,No,Defaulted
+422,23,Male,Education,1,3.32,81,No,85311,Part-time,On-time,12294,No,Not Defaulted
+423,22,Male,Business,2,2.65,96,Yes,95867,Part-time,On-time,1183,No,Not Defaulted
+424,24,Female,Science,3,3.06,100,Yes,87196,Unemployed,Late,4335,Yes,Not Defaulted
+425,20,Male,Education,1,3.58,95,No,87894,Part-time,On-time,14274,No,Not Defaulted
+426,21,Female,Science,3,2.59,80,No,44591,Part-time,On-time,1446,No,Not Defaulted
+427,18,Male,Science,3,3.18,73,Yes,78893,Part-time,On-time,6679,Yes,Not Defaulted
+428,21,Male,Business,4,3.16,96,No,30727,Part-time,Late,9941,Yes,Not Defaulted
+429,24,Female,Arts,2,2.95,87,No,51359,Unemployed,On-time,6213,No,Not Defaulted
+430,22,Female,Business,2,2.75,73,No,73822,Part-time,On-time,1903,No,Not Defaulted
+431,22,Female,Education,2,3.61,86,No,40929,Part-time,On-time,14551,Yes,Not Defaulted
+432,24,Female,Education,4,2.7,71,No,90091,Unemployed,On-time,11367,No,Defaulted
+433,18,Female,Education,4,2.09,98,Yes,53519,Unemployed,Late,7894,Yes,Defaulted
+434,20,Female,Business,2,3.32,93,Yes,47393,Part-time,On-time,9269,Yes,Not Defaulted
+435,19,Female,Science,4,2.4,91,No,64318,Part-time,On-time,2377,Yes,Not Defaulted
+436,18,Male,Science,4,3.35,71,Yes,77934,Part-time,On-time,847,Yes,Not Defaulted
+437,19,Female,Engineering,4,3.67,81,No,58840,Unemployed,Late,7370,Yes,Not Defaulted
+438,24,Male,Education,2,3.31,100,No,43265,Unemployed,On-time,13599,Yes,Defaulted
+439,23,Other,Science,2,3.54,75,No,35424,Unemployed,Late,14380,No,Defaulted
+440,19,Female,Engineering,2,4.0,79,Yes,50625,Unemployed,Late,11068,No,Defaulted
+441,20,Male,Science,4,3.48,94,Yes,59187,Unemployed,On-time,6341,Yes,Not Defaulted
+442,23,Female,Education,2,3.17,92,No,65929,Unemployed,On-time,1239,Yes,Not Defaulted
+443,19,Female,Arts,4,3.82,94,No,91892,Full-time,On-time,5600,Yes,Not Defaulted
+444,24,Male,Education,1,3.88,90,No,50539,Part-time,Late,9524,No,Not Defaulted
+445,23,Female,Business,4,3.88,92,No,86630,Unemployed,On-time,11698,Yes,Not Defaulted
+446,24,Female,Science,3,2.75,96,No,39215,Part-time,On-time,10571,Yes,Not Defaulted
+447,19,Male,Science,2,2.32,85,No,69385,Part-time,Late,4791,No,Not Defaulted
+448,24,Female,Business,2,2.72,100,Yes,55008,Unemployed,On-time,12314,No,Not Defaulted
+449,20,Male,Business,3,3.35,83,Yes,78928,Part-time,On-time,11429,Yes,Not Defaulted
+450,19,Female,Arts,4,3.08,76,No,54976,Unemployed,On-time,2365,Yes,Not Defaulted
+451,19,Other,Science,1,2.9,97,No,57626,Unemployed,On-time,10604,Yes,Not Defaulted
+452,19,Female,Science,3,3.28,97,No,89789,Full-time,Late,11366,No,Not Defaulted
+453,18,Male,Arts,3,2.26,88,No,34700,Unemployed,On-time,5055,No,Defaulted
+454,18,Female,Engineering,4,3.07,92,No,93645,Part-time,On-time,5622,Yes,Not Defaulted
+455,18,Female,Arts,2,3.56,86,No,37526,Full-time,Late,14156,No,Defaulted
+456,20,Male,Education,4,3.27,78,No,69500,Unemployed,On-time,372,Yes,Not Defaulted
+457,23,Female,Science,3,3.35,95,No,98049,Unemployed,Late,7783,Yes,Not Defaulted
+458,24,Male,Business,3,3.8,82,No,89117,Unemployed,Late,1949,Yes,Not Defaulted
+459,22,Female,Education,2,2.97,91,No,86096,Part-time,On-time,244,Yes,Not Defaulted
+460,19,Male,Science,2,2.67,74,No,37910,Unemployed,On-time,10032,Yes,Defaulted
+461,24,Male,Arts,2,3.59,92,Yes,80248,Part-time,Late,7795,Yes,Not Defaulted
+462,19,Male,Education,4,3.59,74,Yes,31951,Unemployed,On-time,5772,Yes,Defaulted
+463,20,Female,Science,2,3.28,79,No,95212,Part-time,On-time,11619,Yes,Not Defaulted
+464,19,Male,Engineering,3,2.92,90,No,71954,Unemployed,Late,14813,No,Defaulted
+465,18,Female,Engineering,3,3.0,96,No,38804,Part-time,On-time,124,Yes,Not Defaulted
+466,22,Male,Business,1,2.36,79,No,30595,Part-time,Late,12824,Yes,Defaulted
+467,21,Male,Science,4,3.56,96,No,59592,Full-time,On-time,10945,No,Not Defaulted
+468,19,Female,Engineering,1,3.54,76,No,70643,Unemployed,On-time,1919,No,Not Defaulted
+469,24,Female,Arts,3,2.34,95,No,92665,Unemployed,On-time,9827,No,Not Defaulted
+470,18,Male,Science,1,3.43,84,No,50823,Unemployed,Late,9617,Yes,Not Defaulted
+471,21,Female,Arts,3,3.2,76,Yes,35972,Full-time,On-time,9732,Yes,Not Defaulted
+472,22,Female,Arts,1,2.49,98,No,45882,Full-time,Late,530,No,Defaulted
+473,21,Female,Engineering,2,2.4,96,No,96394,Part-time,On-time,7849,No,Not Defaulted
+474,18,Male,Science,1,3.19,84,No,53769,Unemployed,On-time,6929,Yes,Not Defaulted
+475,23,Male,Education,2,2.8,72,No,55020,Part-time,On-time,4349,No,Not Defaulted
+476,23,Female,Engineering,2,3.91,88,No,72748,Unemployed,On-time,14456,Yes,Not Defaulted
+477,21,Male,Engineering,4,3.48,79,Yes,74912,Unemployed,On-time,11295,No,Defaulted
+478,20,Female,Science,2,3.24,97,No,42879,Unemployed,On-time,4756,No,Not Defaulted
+479,24,Female,Science,2,3.26,98,No,63798,Unemployed,On-time,1801,No,Not Defaulted
+480,24,Female,Arts,1,3.67,84,No,76073,Unemployed,Late,5156,No,Not Defaulted
+481,21,Female,Science,3,3.42,72,Yes,96983,Unemployed,On-time,7856,No,Not Defaulted
+482,19,Other,Arts,4,3.25,75,Yes,73005,Part-time,Late,5461,Yes,Not Defaulted
+483,19,Male,Engineering,2,2.51,81,Yes,32850,Unemployed,On-time,9228,Yes,Not Defaulted
+484,24,Female,Business,4,4.0,84,Yes,58400,Part-time,On-time,5302,Yes,Not Defaulted
+485,24,Male,Education,1,2.45,75,Yes,41953,Full-time,On-time,11920,Yes,Defaulted
+486,23,Male,Engineering,2,2.84,82,No,53535,Part-time,On-time,7432,No,Not Defaulted
+487,20,Female,Science,1,2.17,98,Yes,34055,Part-time,On-time,14423,Yes,Defaulted
+488,18,Female,Education,4,3.27,88,Yes,68170,Part-time,On-time,12203,Yes,Not Defaulted
+489,19,Other,Business,1,3.08,72,No,58251,Full-time,On-time,6189,No,Not Defaulted
+490,24,Female,Business,4,3.38,77,Yes,34532,Unemployed,Late,11655,No,Defaulted
+491,23,Male,Arts,1,2.13,77,Yes,34924,Part-time,On-time,1142,Yes,Defaulted
+492,22,Male,Education,4,3.56,92,No,78037,Unemployed,Late,7076,Yes,Not Defaulted
+493,23,Female,Arts,3,2.6,95,Yes,40702,Part-time,On-time,13842,Yes,Not Defaulted
+494,19,Male,Engineering,1,2.93,89,No,45385,Unemployed,On-time,7614,No,Not Defaulted
+495,19,Male,Education,1,3.47,84,Yes,39336,Unemployed,On-time,9947,Yes,Not Defaulted
+496,23,Male,Engineering,3,3.13,73,No,95421,Unemployed,On-time,14253,No,Defaulted
+497,18,Male,Arts,3,3.17,88,No,61225,Unemployed,On-time,4840,Yes,Not Defaulted
+498,21,Male,Education,1,3.4,90,No,66021,Part-time,On-time,1629,Yes,Not Defaulted
+499,19,Male,Arts,3,3.21,72,No,33782,Unemployed,On-time,5062,No,Defaulted
+500,23,Male,Education,2,2.83,82,No,79111,Full-time,On-time,762,Yes,Not Defaulted
+501,24,Male,Arts,4,2.92,77,No,72719,Full-time,On-time,6905,Yes,Not Defaulted
+502,23,Other,Business,4,3.11,92,Yes,79037,Unemployed,On-time,4889,Yes,Not Defaulted
+503,20,Male,Arts,4,2.55,85,No,33513,Part-time,On-time,4839,Yes,Not Defaulted
+504,21,Male,Business,2,3.5,82,No,43335,Unemployed,Late,13357,No,Defaulted
+505,22,Female,Arts,3,3.14,72,No,74140,Unemployed,Late,3957,Yes,Defaulted
+506,18,Male,Education,3,3.04,85,Yes,64840,Part-time,On-time,13819,Yes,Not Defaulted
+507,22,Female,Education,1,3.6,78,No,61007,Part-time,Late,557,Yes,Not Defaulted
+508,21,Female,Education,3,2.94,97,No,86947,Part-time,Late,14282,No,Not Defaulted
+509,21,Male,Science,1,2.91,83,Yes,56393,Unemployed,On-time,4621,No,Not Defaulted
+510,21,Male,Engineering,2,2.76,82,No,87480,Unemployed,On-time,14932,No,Not Defaulted
+511,22,Female,Education,4,3.17,90,Yes,39107,Part-time,Late,839,No,Not Defaulted
+512,24,Female,Business,4,3.15,94,No,35993,Part-time,On-time,8194,Yes,Not Defaulted
+513,21,Male,Education,4,2.67,76,Yes,82066,Unemployed,Late,9243,Yes,Defaulted
+514,23,Female,Science,3,2.91,84,No,72942,Unemployed,On-time,9596,Yes,Not Defaulted
+515,22,Male,Business,1,2.67,76,No,46138,Part-time,On-time,8348,Yes,Not Defaulted
+516,21,Other,Science,1,2.65,75,No,74527,Part-time,On-time,6998,Yes,Not Defaulted
+517,23,Male,Business,2,2.14,71,No,39190,Unemployed,On-time,10129,No,Defaulted
+518,24,Female,Arts,3,2.88,78,No,85698,Part-time,Late,14242,No,Defaulted
+519,20,Female,Engineering,2,2.15,91,Yes,59086,Part-time,Late,510,No,Not Defaulted
+520,24,Female,Engineering,1,2.77,93,No,47322,Unemployed,On-time,11596,Yes,Defaulted
+521,21,Female,Science,1,2.69,86,Yes,33435,Unemployed,On-time,12974,No,Defaulted
+522,22,Male,Engineering,4,3.53,74,No,83331,Part-time,Late,1137,No,Not Defaulted
+523,19,Male,Science,3,2.49,81,Yes,58942,Part-time,On-time,13700,No,Not Defaulted
+524,21,Male,Science,1,2.62,70,No,89635,Part-time,On-time,5606,Yes,Not Defaulted
+525,19,Male,Science,4,2.81,79,No,59059,Part-time,On-time,12106,Yes,Not Defaulted
+526,23,Female,Engineering,3,2.71,80,No,87557,Unemployed,Late,11513,Yes,Defaulted
+527,20,Male,Science,2,3.68,85,No,82389,Full-time,Late,4666,Yes,Not Defaulted
+528,18,Male,Engineering,3,2.43,83,Yes,83014,Unemployed,On-time,8906,No,Not Defaulted
+529,24,Other,Science,3,2.81,77,No,62826,Unemployed,On-time,5434,Yes,Not Defaulted
+530,20,Female,Education,1,3.17,93,No,60297,Full-time,Late,10478,Yes,Not Defaulted
+531,21,Female,Science,1,3.44,86,Yes,73890,Part-time,On-time,6446,No,Not Defaulted
+532,19,Other,Business,3,2.81,94,No,51322,Unemployed,On-time,2654,No,Not Defaulted
+533,24,Male,Science,1,2.04,87,No,65739,Unemployed,On-time,990,Yes,Not Defaulted
+534,19,Male,Arts,1,2.92,81,No,39719,Unemployed,Late,7820,No,Defaulted
+535,22,Female,Science,1,3.68,94,No,38314,Part-time,On-time,12621,Yes,Not Defaulted
+536,19,Female,Business,4,3.14,86,No,66113,Unemployed,On-time,2160,Yes,Not Defaulted
+537,22,Male,Business,4,3.12,97,No,45357,Unemployed,On-time,5740,Yes,Not Defaulted
+538,23,Female,Engineering,3,2.47,95,Yes,50365,Unemployed,On-time,4457,No,Not Defaulted
+539,24,Male,Education,1,2.42,83,No,69029,Part-time,On-time,14168,No,Not Defaulted
+540,24,Male,Science,4,3.01,85,No,31737,Unemployed,On-time,10336,Yes,Defaulted
+541,18,Female,Engineering,3,2.29,83,Yes,57499,Unemployed,On-time,14269,No,Defaulted
+542,21,Female,Education,1,3.39,78,No,76157,Full-time,On-time,2063,Yes,Not Defaulted
+543,22,Female,Science,2,2.58,73,No,86247,Full-time,On-time,10795,No,Not Defaulted
+544,18,Male,Arts,1,2.99,94,No,71034,Part-time,On-time,1977,Yes,Not Defaulted
+545,19,Female,Science,1,2.06,92,No,30294,Part-time,Late,8567,Yes,Defaulted
+546,19,Male,Business,4,2.8,80,Yes,54596,Part-time,Late,8933,No,Not Defaulted
+547,18,Male,Business,3,2.41,75,No,41434,Unemployed,On-time,12677,No,Defaulted
+548,24,Female,Arts,3,1.84,84,Yes,88382,Part-time,Late,2667,Yes,Not Defaulted
+549,19,Female,Engineering,4,3.27,74,No,68098,Full-time,On-time,9432,Yes,Not Defaulted
+550,23,Female,Education,1,3.82,80,No,34655,Unemployed,Late,11662,Yes,Defaulted
+551,23,Female,Science,2,3.56,94,No,76228,Part-time,On-time,4919,Yes,Not Defaulted
+552,18,Female,Business,1,3.34,87,Yes,33771,Full-time,On-time,10559,No,Not Defaulted
+553,22,Female,Engineering,1,2.79,99,No,86799,Unemployed,On-time,10435,No,Not Defaulted
+554,22,Male,Arts,2,3.4,82,No,92257,Unemployed,On-time,11741,Yes,Not Defaulted
+555,18,Male,Business,4,3.61,80,Yes,47558,Unemployed,Late,8609,Yes,Defaulted
+556,22,Male,Arts,3,3.07,83,No,88436,Unemployed,On-time,7642,No,Not Defaulted
+557,24,Male,Science,4,2.41,97,No,62376,Part-time,On-time,8798,Yes,Not Defaulted
+558,24,Female,Education,4,2.75,87,No,59332,Unemployed,On-time,8759,No,Not Defaulted
+559,22,Female,Business,1,3.85,96,Yes,76737,Part-time,Late,543,Yes,Not Defaulted
+560,23,Male,Business,3,2.96,97,Yes,81952,Unemployed,On-time,14566,No,Not Defaulted
+561,22,Male,Science,3,1.34,100,No,50991,Part-time,On-time,883,No,Not Defaulted
+562,24,Female,Engineering,4,2.27,94,No,57472,Unemployed,Late,14856,No,Defaulted
+563,20,Male,Education,2,2.79,97,Yes,89946,Unemployed,On-time,4798,No,Not Defaulted
+564,21,Female,Business,4,3.52,88,Yes,56849,Unemployed,On-time,8040,Yes,Not Defaulted
+565,19,Female,Education,2,2.86,93,No,31541,Part-time,Late,9415,No,Not Defaulted
+566,20,Female,Business,3,3.53,96,No,32765,Full-time,On-time,11085,No,Not Defaulted
+567,22,Female,Education,4,2.74,84,Yes,73074,Unemployed,On-time,5718,Yes,Not Defaulted
+568,23,Female,Arts,1,2.02,78,No,59283,Unemployed,On-time,2068,Yes,Defaulted
+569,18,Male,Business,4,2.75,77,No,30769,Part-time,Late,7478,Yes,Defaulted
+570,22,Female,Education,3,3.17,89,Yes,47806,Unemployed,On-time,14923,Yes,Defaulted
+571,23,Female,Engineering,1,3.13,97,No,32972,Unemployed,Late,8120,Yes,Defaulted
+572,21,Male,Arts,1,2.37,70,No,48256,Part-time,Late,7820,No,Defaulted
+573,22,Female,Arts,2,2.82,73,No,48653,Unemployed,On-time,11901,Yes,Defaulted
+574,24,Female,Engineering,1,4.0,83,No,69339,Unemployed,Late,1786,No,Not Defaulted
+575,18,Female,Education,1,2.38,94,No,55757,Full-time,On-time,5715,Yes,Not Defaulted
+576,23,Female,Science,4,3.33,71,No,72399,Part-time,On-time,9649,Yes,Not Defaulted
+577,23,Female,Engineering,3,1.95,85,Yes,74013,Unemployed,Late,14706,Yes,Defaulted
+578,23,Female,Education,2,3.43,72,No,44706,Unemployed,Late,13871,Yes,Defaulted
+579,21,Female,Engineering,4,2.55,95,No,68231,Full-time,On-time,10106,Yes,Not Defaulted
+580,22,Female,Engineering,1,3.2,77,Yes,57909,Unemployed,On-time,8269,Yes,Not Defaulted
+581,21,Female,Business,1,2.35,75,Yes,87572,Unemployed,On-time,11805,Yes,Defaulted
+582,19,Female,Education,2,3.15,85,Yes,93767,Unemployed,On-time,1308,No,Not Defaulted
+583,19,Female,Science,3,2.55,93,No,56469,Part-time,On-time,8839,No,Not Defaulted
+584,22,Male,Business,2,2.64,85,Yes,31313,Unemployed,On-time,10379,Yes,Defaulted
+585,24,Female,Engineering,4,3.22,76,Yes,37847,Full-time,On-time,8744,No,Not Defaulted
+586,21,Female,Engineering,2,2.78,99,No,80222,Part-time,On-time,13285,No,Not Defaulted
+587,18,Male,Engineering,1,3.19,82,No,39930,Part-time,On-time,8473,Yes,Not Defaulted
+588,23,Female,Education,4,2.9,82,Yes,33285,Full-time,Late,9473,No,Not Defaulted
+589,23,Male,Education,1,3.03,74,No,65863,Unemployed,Late,10038,No,Defaulted
+590,22,Male,Business,3,3.22,94,No,46704,Part-time,On-time,13671,Yes,Not Defaulted
+591,24,Female,Science,1,2.82,89,No,48705,Unemployed,On-time,10679,Yes,Defaulted
+592,19,Male,Business,1,2.5,91,No,30555,Part-time,On-time,14605,Yes,Not Defaulted
+593,19,Female,Arts,2,2.73,87,Yes,51323,Full-time,On-time,13445,Yes,Not Defaulted
+594,23,Female,Engineering,1,3.6,84,No,96922,Unemployed,On-time,10985,No,Not Defaulted
+595,22,Female,Engineering,4,3.06,87,No,83915,Unemployed,Late,11903,Yes,Defaulted
+596,21,Male,Engineering,4,2.58,71,Yes,40619,Part-time,On-time,12391,No,Defaulted
+597,19,Male,Business,3,3.2,79,Yes,89274,Unemployed,On-time,4861,No,Not Defaulted
+598,21,Female,Business,4,3.23,92,No,51225,Part-time,On-time,14430,No,Not Defaulted
+599,24,Other,Engineering,2,3.26,82,Yes,56739,Full-time,On-time,2776,No,Not Defaulted
+600,19,Female,Business,3,2.51,87,No,77708,Unemployed,On-time,1596,Yes,Not Defaulted
+601,19,Male,Education,4,2.66,84,Yes,83019,Unemployed,Late,479,Yes,Not Defaulted
+602,20,Female,Education,2,2.66,100,No,37373,Part-time,On-time,3312,No,Not Defaulted
+603,19,Female,Business,4,2.82,81,No,65281,Unemployed,On-time,6156,Yes,Not Defaulted
+604,18,Female,Engineering,4,3.27,84,No,50187,Unemployed,On-time,11410,Yes,Not Defaulted
+605,22,Male,Business,1,3.15,82,No,97863,Part-time,Late,10155,No,Not Defaulted
+606,22,Female,Business,4,3.19,87,No,69220,Unemployed,On-time,7919,No,Not Defaulted
+607,21,Female,Business,4,3.68,84,No,37642,Unemployed,On-time,6744,Yes,Not Defaulted
+608,24,Other,Arts,2,3.34,94,No,85556,Unemployed,Late,10334,No,Defaulted
+609,19,Male,Education,2,2.93,92,No,63760,Full-time,On-time,3898,No,Not Defaulted
+610,18,Female,Science,1,2.41,80,No,68192,Unemployed,On-time,14628,Yes,Defaulted
+611,21,Female,Science,4,2.64,88,No,34381,Part-time,On-time,2072,Yes,Not Defaulted
+612,20,Male,Arts,1,2.87,72,No,49558,Unemployed,On-time,9487,No,Defaulted
+613,21,Female,Business,4,3.41,76,No,60782,Unemployed,On-time,5624,Yes,Not Defaulted
+614,21,Female,Arts,3,2.99,90,Yes,34782,Part-time,On-time,13477,Yes,Not Defaulted
+615,19,Male,Arts,3,2.67,95,No,84712,Unemployed,On-time,938,Yes,Not Defaulted
+616,20,Male,Engineering,1,2.63,83,No,49462,Unemployed,On-time,8176,No,Not Defaulted
+617,21,Female,Education,1,2.97,83,No,90030,Unemployed,On-time,761,Yes,Not Defaulted
+618,18,Male,Science,1,3.44,91,No,98519,Part-time,On-time,7254,Yes,Not Defaulted
+619,18,Female,Business,2,3.8,82,No,86411,Part-time,On-time,12941,Yes,Not Defaulted
+620,22,Male,Science,2,2.9,81,No,85206,Unemployed,Late,1669,No,Not Defaulted
+621,20,Female,Science,2,2.98,93,Yes,76950,Part-time,On-time,7128,Yes,Not Defaulted
+622,20,Male,Education,1,2.39,78,Yes,32523,Unemployed,On-time,3862,No,Defaulted
+623,22,Female,Science,4,3.97,70,No,90926,Part-time,On-time,2685,No,Not Defaulted
+624,21,Other,Science,3,2.3,88,No,39677,Part-time,On-time,12091,Yes,Defaulted
+625,20,Other,Arts,1,3.59,80,Yes,45089,Full-time,On-time,6634,No,Not Defaulted
+626,18,Female,Education,2,2.82,92,Yes,34581,Part-time,On-time,1931,No,Not Defaulted
+627,18,Male,Engineering,2,2.7,91,Yes,41907,Unemployed,On-time,7308,No,Not Defaulted
+628,19,Female,Business,1,2.44,92,No,35609,Full-time,On-time,3939,Yes,Not Defaulted
+629,20,Male,Science,1,4.0,93,No,81153,Part-time,Late,1126,No,Not Defaulted
+630,21,Male,Business,2,3.11,91,No,80539,Part-time,On-time,11489,No,Not Defaulted
+631,22,Male,Engineering,4,3.01,88,No,74143,Unemployed,On-time,6021,No,Not Defaulted
+632,22,Female,Business,2,3.44,87,No,52936,Part-time,On-time,12862,Yes,Not Defaulted
+633,21,Female,Engineering,2,2.67,81,No,80182,Unemployed,On-time,6437,No,Not Defaulted
+634,24,Female,Arts,1,3.0,92,No,43163,Unemployed,On-time,7039,Yes,Not Defaulted
+635,23,Male,Science,4,3.03,97,Yes,89758,Unemployed,On-time,13617,Yes,Not Defaulted
+636,19,Male,Engineering,2,2.74,97,No,76057,Unemployed,On-time,5373,Yes,Not Defaulted
+637,22,Other,Business,2,3.6,97,No,42537,Unemployed,Late,1203,No,Defaulted
+638,20,Male,Science,3,2.89,96,No,52419,Unemployed,Late,4135,Yes,Not Defaulted
+639,19,Male,Arts,1,2.22,70,Yes,72578,Part-time,On-time,11964,No,Defaulted
+640,20,Male,Science,3,2.85,88,Yes,30834,Part-time,On-time,8711,No,Not Defaulted
+641,24,Female,Engineering,3,3.12,97,Yes,62214,Part-time,Late,13927,Yes,Not Defaulted
+642,18,Female,Arts,2,2.55,96,No,32413,Unemployed,On-time,7904,No,Not Defaulted
+643,19,Male,Business,1,2.59,89,No,39505,Unemployed,On-time,14881,Yes,Defaulted
+644,22,Male,Arts,4,2.73,98,Yes,32105,Unemployed,On-time,2283,Yes,Not Defaulted
+645,19,Female,Arts,2,3.61,99,No,98104,Part-time,On-time,4558,No,Not Defaulted
+646,19,Female,Education,4,2.76,86,No,88408,Unemployed,On-time,5347,No,Not Defaulted
+647,19,Male,Arts,4,3.71,74,Yes,67679,Full-time,On-time,7867,No,Not Defaulted
+648,23,Female,Arts,1,2.69,95,No,95131,Part-time,On-time,5944,No,Not Defaulted
+649,19,Male,Science,3,3.16,72,Yes,94280,Full-time,On-time,8674,Yes,Not Defaulted
+650,20,Male,Business,1,2.78,71,No,45762,Part-time,Late,2477,Yes,Defaulted
+651,18,Female,Science,4,3.38,100,No,88703,Unemployed,On-time,3093,No,Not Defaulted
+652,24,Male,Science,2,2.44,72,No,93079,Part-time,On-time,8534,Yes,Not Defaulted
+653,21,Female,Engineering,4,3.37,77,Yes,51577,Full-time,On-time,7207,Yes,Not Defaulted
+654,19,Male,Science,2,3.06,85,No,31214,Unemployed,Late,13484,No,Defaulted
+655,22,Male,Education,2,2.68,75,No,78114,Unemployed,Late,9654,Yes,Defaulted
+656,19,Other,Education,1,2.92,82,No,93230,Unemployed,On-time,9394,Yes,Not Defaulted
+657,22,Male,Engineering,4,3.77,99,Yes,62980,Full-time,On-time,9813,No,Not Defaulted
+658,20,Female,Business,3,3.07,92,Yes,97194,Unemployed,Late,14468,No,Defaulted
+659,22,Male,Business,4,2.65,97,Yes,67792,Unemployed,On-time,10590,No,Not Defaulted
+660,21,Male,Science,4,2.4,91,Yes,75807,Part-time,On-time,11788,No,Not Defaulted
+661,18,Male,Science,3,3.25,91,No,52301,Unemployed,On-time,14841,Yes,Not Defaulted
+662,22,Female,Science,1,3.1,85,No,35141,Part-time,On-time,6227,No,Not Defaulted
+663,22,Male,Business,4,3.35,97,No,43777,Part-time,On-time,13280,No,Not Defaulted
+664,18,Female,Arts,4,2.27,85,Yes,68346,Unemployed,On-time,3535,Yes,Not Defaulted
+665,21,Male,Education,2,2.41,72,No,84703,Unemployed,On-time,11069,Yes,Defaulted
+666,19,Other,Arts,4,3.57,97,Yes,77819,Part-time,Late,7004,No,Not Defaulted
+667,22,Male,Arts,3,3.17,82,No,58469,Unemployed,Late,10582,No,Defaulted
+668,18,Female,Business,2,3.27,83,No,33845,Unemployed,Late,11543,No,Defaulted
+669,20,Female,Arts,1,2.52,77,No,53290,Unemployed,Late,2913,No,Defaulted
+670,18,Female,Engineering,2,2.51,81,No,60699,Part-time,On-time,9381,No,Not Defaulted
+671,20,Female,Science,3,3.5,92,Yes,74252,Unemployed,On-time,2340,No,Not Defaulted
+672,21,Female,Engineering,3,3.52,92,No,33293,Part-time,On-time,11772,No,Not Defaulted
+673,19,Female,Education,2,2.46,91,No,87089,Unemployed,Late,9795,Yes,Defaulted
+674,18,Male,Science,1,2.36,90,No,46608,Part-time,On-time,11489,No,Defaulted
+675,24,Male,Arts,2,2.95,95,No,96273,Part-time,Late,5289,Yes,Not Defaulted
+676,24,Female,Education,1,2.6,77,No,46619,Unemployed,On-time,597,No,Defaulted
+677,23,Female,Science,2,2.59,90,Yes,44779,Full-time,Late,8836,No,Not Defaulted
+678,22,Female,Arts,3,2.37,94,No,81040,Part-time,On-time,12735,No,Not Defaulted
+679,21,Female,Engineering,4,2.77,78,Yes,86325,Part-time,On-time,7145,No,Not Defaulted
+680,18,Male,Science,4,2.42,70,No,51630,Unemployed,Late,2902,Yes,Defaulted
+681,24,Male,Arts,1,2.45,75,No,42178,Part-time,On-time,6645,Yes,Defaulted
+682,22,Female,Engineering,1,3.15,92,Yes,49935,Unemployed,Late,8955,Yes,Defaulted
+683,24,Male,Education,1,2.97,88,No,77258,Part-time,On-time,7694,No,Not Defaulted
+684,18,Male,Education,3,3.24,92,No,52784,Part-time,On-time,4830,No,Not Defaulted
+685,20,Female,Education,2,2.18,80,No,93722,Part-time,On-time,7546,No,Not Defaulted
+686,18,Male,Education,3,3.0,80,No,53027,Full-time,On-time,7368,Yes,Not Defaulted
+687,23,Female,Business,4,4.0,92,No,87853,Part-time,On-time,9834,Yes,Not Defaulted
+688,18,Male,Science,1,2.81,99,No,97359,Part-time,On-time,10489,No,Not Defaulted
+689,18,Female,Science,2,3.41,82,No,45111,Unemployed,On-time,12888,Yes,Defaulted
+690,23,Male,Business,4,3.41,80,No,62312,Unemployed,On-time,10364,No,Not Defaulted
+691,21,Male,Arts,4,3.43,87,No,54161,Part-time,On-time,2160,No,Not Defaulted
+692,18,Male,Arts,4,3.08,92,No,97313,Full-time,On-time,13268,No,Not Defaulted
+693,23,Male,Education,3,3.28,84,No,80374,Unemployed,Late,5878,Yes,Not Defaulted
+694,22,Male,Engineering,1,3.35,70,Yes,54014,Part-time,On-time,7663,No,Not Defaulted
+695,20,Male,Arts,4,3.32,90,Yes,76389,Part-time,On-time,3749,Yes,Not Defaulted
+696,20,Female,Engineering,1,2.44,94,Yes,48161,Unemployed,On-time,14485,No,Defaulted
+697,18,Male,Science,3,2.15,76,No,37490,Unemployed,On-time,2922,Yes,Defaulted
+698,21,Female,Engineering,4,2.22,92,No,54502,Unemployed,On-time,6486,Yes,Not Defaulted
+699,21,Female,Science,3,2.86,96,No,65757,Part-time,Late,8112,No,Not Defaulted
+700,22,Female,Business,3,3.3,82,No,71111,Part-time,Late,8771,Yes,Not Defaulted
+701,18,Male,Business,1,2.45,81,Yes,88645,Unemployed,On-time,3804,No,Not Defaulted
+702,20,Female,Education,4,3.46,87,No,89055,Part-time,On-time,4878,No,Not Defaulted
+703,21,Male,Arts,3,2.75,93,No,38998,Unemployed,Late,2368,No,Defaulted
+704,18,Male,Education,4,2.75,88,No,58906,Unemployed,On-time,8093,No,Not Defaulted
+705,24,Other,Science,1,2.58,84,No,80477,Part-time,On-time,3932,Yes,Not Defaulted
+706,21,Male,Education,3,2.06,77,No,66901,Unemployed,On-time,12819,No,Defaulted
+707,23,Female,Engineering,1,3.11,88,No,82021,Unemployed,On-time,11552,Yes,Not Defaulted
+708,24,Female,Science,4,3.86,79,No,59092,Unemployed,Late,5608,Yes,Defaulted
+709,21,Female,Business,4,2.97,76,No,31242,Part-time,On-time,6635,No,Not Defaulted
+710,20,Female,Arts,1,2.07,87,No,31831,Part-time,On-time,12899,Yes,Defaulted
+711,19,Male,Science,2,3.39,85,Yes,80721,Full-time,On-time,6395,No,Not Defaulted
+712,24,Male,Science,3,2.19,89,No,58511,Part-time,Late,6101,No,Not Defaulted
+713,22,Female,Engineering,4,2.4,96,No,48302,Unemployed,Late,9292,No,Defaulted
+714,22,Male,Arts,4,2.88,75,No,85568,Part-time,On-time,9862,No,Not Defaulted
+715,20,Male,Business,3,3.06,96,Yes,33232,Full-time,On-time,13703,Yes,Not Defaulted
+716,21,Male,Science,1,2.5,78,No,81507,Part-time,On-time,5531,No,Not Defaulted
+717,18,Male,Science,1,2.86,90,No,40683,Unemployed,Late,10412,No,Defaulted
+718,21,Male,Engineering,1,3.36,82,Yes,53664,Part-time,Late,4970,Yes,Not Defaulted
+719,20,Male,Education,2,3.43,94,No,63172,Full-time,On-time,6344,Yes,Not Defaulted
+720,22,Female,Business,2,3.63,100,Yes,94340,Part-time,Late,8408,No,Not Defaulted
+721,21,Female,Arts,4,3.95,90,Yes,41017,Unemployed,On-time,375,Yes,Not Defaulted
+722,22,Female,Science,1,3.4,95,Yes,66613,Part-time,On-time,7887,Yes,Not Defaulted
+723,24,Male,Science,3,2.89,77,Yes,60348,Unemployed,On-time,1609,No,Not Defaulted
+724,18,Male,Business,4,3.43,85,No,46448,Unemployed,On-time,12298,No,Defaulted
+725,24,Male,Education,3,3.23,82,Yes,39491,Part-time,On-time,12031,No,Not Defaulted
+726,22,Female,Science,4,3.25,82,Yes,88759,Unemployed,On-time,2939,No,Not Defaulted
+727,22,Female,Business,2,3.09,86,Yes,74553,Part-time,On-time,4062,No,Not Defaulted
+728,19,Male,Engineering,4,2.54,92,Yes,30968,Unemployed,On-time,1613,Yes,Not Defaulted
+729,19,Female,Education,2,2.49,89,Yes,30368,Unemployed,On-time,6578,Yes,Defaulted
+730,24,Male,Arts,4,2.95,74,No,65010,Part-time,On-time,7851,Yes,Not Defaulted
+731,23,Female,Science,1,3.07,91,Yes,84154,Part-time,On-time,3679,No,Not Defaulted
+732,24,Female,Business,3,2.66,90,No,65851,Part-time,On-time,13105,Yes,Not Defaulted
+733,19,Female,Engineering,1,3.21,97,No,55496,Unemployed,On-time,7540,Yes,Not Defaulted
+734,22,Female,Arts,4,4.0,86,Yes,60936,Part-time,Late,9488,No,Not Defaulted
+735,20,Female,Business,4,2.13,97,No,97005,Unemployed,Late,7074,Yes,Defaulted
+736,24,Male,Business,4,3.29,78,Yes,67493,Full-time,Late,3996,Yes,Not Defaulted
+737,22,Female,Arts,2,2.97,71,Yes,99795,Unemployed,On-time,4786,No,Not Defaulted
+738,20,Male,Engineering,3,3.23,94,Yes,66390,Part-time,On-time,5695,Yes,Not Defaulted
+739,20,Female,Engineering,3,2.78,95,No,40292,Unemployed,On-time,13820,Yes,Defaulted
+740,19,Female,Education,4,2.93,87,No,58365,Full-time,On-time,9347,Yes,Not Defaulted
+741,24,Female,Science,4,3.06,78,No,47207,Unemployed,On-time,6998,No,Defaulted
+742,21,Male,Arts,2,2.85,75,No,52912,Part-time,On-time,14235,No,Not Defaulted
+743,18,Female,Arts,1,2.24,80,No,86572,Part-time,Late,13071,Yes,Defaulted
+744,19,Female,Arts,1,2.88,94,Yes,49276,Part-time,On-time,2366,No,Not Defaulted
+745,19,Female,Engineering,3,2.29,98,No,35534,Unemployed,Late,11083,Yes,Defaulted
+746,21,Male,Science,2,3.33,75,Yes,65670,Part-time,Late,10164,No,Defaulted
+747,18,Male,Education,4,2.07,75,Yes,92147,Unemployed,On-time,14164,Yes,Defaulted
+748,22,Male,Business,3,3.51,82,Yes,66486,Part-time,Late,6764,No,Not Defaulted
+749,23,Male,Business,2,3.21,80,Yes,95557,Unemployed,On-time,8976,No,Not Defaulted
+750,24,Female,Arts,1,3.22,83,No,64268,Unemployed,Late,12684,No,Defaulted
+751,23,Male,Science,2,1.92,71,No,56336,Unemployed,On-time,9273,Yes,Defaulted
+752,22,Other,Engineering,1,2.84,77,Yes,33641,Part-time,Late,13791,Yes,Defaulted
+753,19,Male,Science,2,3.58,72,No,62959,Part-time,On-time,10225,No,Not Defaulted
+754,18,Male,Science,3,2.74,92,No,43306,Part-time,Late,1614,Yes,Not Defaulted
+755,19,Female,Engineering,1,2.46,90,No,76182,Part-time,On-time,4555,No,Not Defaulted
+756,20,Female,Arts,3,2.68,72,Yes,86326,Unemployed,On-time,14396,No,Defaulted
+757,19,Female,Science,3,2.97,70,No,51498,Unemployed,Late,2416,No,Defaulted
+758,19,Female,Business,1,2.57,93,No,57197,Unemployed,Late,7288,Yes,Not Defaulted
+759,22,Female,Engineering,1,3.62,88,No,50719,Part-time,On-time,6862,No,Not Defaulted
+760,22,Male,Education,4,2.97,87,No,55032,Unemployed,On-time,12833,No,Not Defaulted
+761,22,Other,Arts,4,2.72,86,Yes,89624,Full-time,On-time,3653,No,Not Defaulted
+762,23,Other,Engineering,4,2.35,89,Yes,71964,Unemployed,Late,6639,Yes,Defaulted
+763,20,Female,Education,3,3.24,98,No,60028,Part-time,Late,496,Yes,Not Defaulted
+764,22,Male,Education,3,3.23,93,No,84646,Full-time,Late,504,Yes,Not Defaulted
+765,18,Female,Science,4,2.6,82,Yes,38536,Full-time,On-time,7699,Yes,Not Defaulted
+766,23,Male,Science,3,1.88,72,No,86747,Unemployed,On-time,11578,No,Defaulted
+767,21,Male,Science,3,3.21,99,No,75712,Unemployed,On-time,13380,No,Not Defaulted
+768,18,Male,Engineering,1,2.91,70,No,36273,Part-time,Late,10400,Yes,Defaulted
+769,24,Male,Engineering,1,3.17,73,No,80830,Part-time,On-time,5733,No,Not Defaulted
+770,24,Female,Arts,3,3.98,94,No,47127,Full-time,Late,8055,Yes,Not Defaulted
+771,18,Female,Science,4,2.99,82,No,41539,Unemployed,On-time,13005,Yes,Defaulted
+772,22,Female,Education,2,2.74,86,No,76761,Part-time,On-time,3216,Yes,Not Defaulted
+773,21,Male,Business,4,2.43,97,Yes,76219,Unemployed,On-time,5688,Yes,Not Defaulted
+774,21,Male,Arts,2,2.84,99,Yes,44692,Unemployed,On-time,11858,No,Defaulted
+775,23,Male,Engineering,4,3.08,80,Yes,43334,Unemployed,On-time,9600,Yes,Not Defaulted
+776,21,Other,Arts,1,3.03,71,Yes,58615,Part-time,On-time,4364,No,Not Defaulted
+777,24,Male,Arts,3,3.86,94,Yes,37903,Unemployed,On-time,12269,Yes,Defaulted
+778,20,Female,Arts,3,3.25,85,Yes,58527,Unemployed,Late,6042,No,Not Defaulted
+779,22,Female,Arts,1,2.93,71,No,45629,Full-time,On-time,1477,Yes,Not Defaulted
+780,21,Male,Business,2,2.65,98,Yes,88008,Unemployed,On-time,13829,Yes,Not Defaulted
+781,23,Female,Science,2,3.13,88,No,56708,Unemployed,On-time,4960,Yes,Not Defaulted
+782,24,Female,Education,2,2.55,92,Yes,40860,Full-time,On-time,2397,Yes,Not Defaulted
+783,20,Female,Arts,1,3.09,88,No,47438,Part-time,Late,8301,Yes,Not Defaulted
+784,19,Female,Arts,2,3.24,94,No,97300,Full-time,On-time,11746,No,Not Defaulted
+785,19,Male,Arts,1,2.89,85,Yes,50842,Unemployed,Late,14742,No,Defaulted
+786,20,Male,Science,4,2.68,91,No,90213,Part-time,On-time,8841,No,Not Defaulted
+787,24,Female,Engineering,4,1.91,88,No,72372,Unemployed,On-time,6194,No,Not Defaulted
+788,23,Female,Engineering,1,3.57,78,No,98906,Unemployed,On-time,7570,Yes,Not Defaulted
+789,20,Male,Business,3,3.2,70,No,68744,Unemployed,On-time,7730,Yes,Not Defaulted
+790,22,Female,Engineering,4,3.21,79,No,87442,Part-time,On-time,1499,No,Not Defaulted
+791,22,Female,Arts,2,2.22,88,No,33650,Unemployed,Late,13398,No,Defaulted
+792,19,Female,Arts,1,3.69,70,No,75117,Part-time,On-time,7235,No,Not Defaulted
+793,21,Male,Arts,2,2.77,71,Yes,82772,Part-time,On-time,595,No,Not Defaulted
+794,23,Female,Business,2,2.86,85,No,33190,Unemployed,On-time,978,Yes,Not Defaulted
+795,19,Female,Arts,3,2.47,81,No,78113,Full-time,On-time,730,Yes,Not Defaulted
+796,21,Male,Engineering,2,2.11,77,No,38789,Unemployed,On-time,56,Yes,Defaulted
+797,21,Male,Science,3,3.58,92,Yes,62125,Part-time,On-time,2243,Yes,Not Defaulted
+798,22,Other,Science,4,3.64,87,No,47459,Full-time,On-time,5879,Yes,Not Defaulted
+799,24,Male,Education,1,2.92,71,No,65418,Part-time,On-time,1701,Yes,Not Defaulted
+800,18,Female,Engineering,2,2.66,94,Yes,77085,Unemployed,On-time,7229,No,Not Defaulted
+801,24,Female,Arts,1,2.81,98,No,48768,Unemployed,Late,1286,No,Defaulted
+802,18,Male,Science,2,2.83,82,No,79961,Unemployed,On-time,8303,No,Not Defaulted
+803,20,Female,Engineering,1,2.4,75,No,57885,Part-time,On-time,12998,No,Defaulted
+804,22,Male,Science,2,2.85,90,No,91082,Part-time,Late,9393,Yes,Not Defaulted
+805,21,Female,Arts,2,3.08,95,No,36895,Unemployed,On-time,947,Yes,Not Defaulted
+806,23,Male,Science,2,3.51,75,No,80311,Part-time,On-time,4121,No,Not Defaulted
+807,18,Female,Education,2,3.01,78,No,97067,Full-time,On-time,6553,Yes,Not Defaulted
+808,24,Male,Education,2,2.21,85,Yes,53932,Unemployed,On-time,757,Yes,Not Defaulted
+809,21,Male,Science,2,3.18,80,Yes,51360,Part-time,On-time,14866,Yes,Not Defaulted
+810,18,Other,Engineering,2,2.87,76,No,84847,Unemployed,Late,14088,Yes,Defaulted
+811,18,Male,Engineering,2,3.69,100,Yes,68931,Unemployed,Late,11580,No,Defaulted
+812,18,Female,Engineering,2,3.71,79,Yes,85823,Part-time,Late,5651,Yes,Not Defaulted
+813,23,Male,Science,1,3.73,79,No,68032,Part-time,Late,7273,No,Not Defaulted
+814,22,Female,Engineering,3,2.72,99,Yes,48807,Part-time,On-time,10033,No,Not Defaulted
+815,23,Male,Arts,2,3.99,94,No,41767,Unemployed,On-time,3535,Yes,Not Defaulted
+816,19,Other,Education,3,3.18,89,Yes,38071,Unemployed,Late,2293,Yes,Defaulted
+817,21,Male,Arts,2,3.81,87,No,83413,Part-time,Late,1104,Yes,Not Defaulted
+818,22,Male,Engineering,2,2.75,97,No,56149,Part-time,On-time,8853,Yes,Not Defaulted
+819,22,Male,Arts,1,2.85,93,Yes,45540,Unemployed,Late,908,No,Defaulted
+820,22,Male,Engineering,4,3.14,89,No,49787,Unemployed,On-time,6539,No,Not Defaulted
+821,24,Female,Science,4,3.08,98,Yes,50982,Full-time,On-time,4617,No,Not Defaulted
+822,22,Male,Arts,1,3.63,78,No,52606,Part-time,On-time,10048,Yes,Not Defaulted
+823,23,Female,Science,3,2.88,100,No,40150,Part-time,On-time,14047,No,Not Defaulted
+824,22,Male,Science,4,3.58,84,No,76936,Unemployed,On-time,7069,No,Not Defaulted
+825,20,Male,Business,1,3.37,73,No,38593,Unemployed,On-time,2311,Yes,Defaulted
+826,21,Female,Engineering,1,2.89,100,No,47358,Part-time,On-time,789,No,Not Defaulted
+827,22,Female,Education,4,3.33,77,No,67381,Unemployed,On-time,13585,Yes,Defaulted
+828,21,Male,Engineering,3,2.76,78,No,58074,Full-time,On-time,14017,No,Not Defaulted
+829,20,Male,Education,1,4.0,82,Yes,50595,Full-time,Late,171,No,Not Defaulted
+830,20,Male,Engineering,2,1.67,78,No,74194,Part-time,On-time,12552,Yes,Defaulted
+831,21,Female,Science,3,3.34,95,Yes,79377,Unemployed,On-time,10178,No,Not Defaulted
+832,18,Female,Arts,3,2.12,73,No,56853,Full-time,On-time,7989,Yes,Not Defaulted
+833,19,Male,Arts,4,2.89,86,Yes,50661,Unemployed,On-time,13337,Yes,Not Defaulted
+834,24,Female,Business,4,2.96,85,No,80493,Part-time,Late,13780,No,Not Defaulted
+835,18,Female,Education,2,3.75,84,Yes,66495,Part-time,On-time,1885,No,Not Defaulted
+836,18,Female,Education,1,2.65,72,Yes,43703,Part-time,Late,8667,Yes,Defaulted
+837,23,Female,Education,4,3.65,94,No,83080,Unemployed,On-time,14691,Yes,Not Defaulted
+838,24,Male,Science,4,2.41,89,No,60815,Part-time,On-time,1049,Yes,Not Defaulted
+839,24,Male,Education,3,3.67,74,No,59565,Unemployed,On-time,4129,Yes,Not Defaulted
+840,18,Male,Arts,4,2.76,92,Yes,93321,Part-time,On-time,10503,No,Not Defaulted
+841,22,Male,Science,4,3.04,74,Yes,88453,Full-time,On-time,1161,No,Not Defaulted
+842,23,Female,Engineering,4,2.83,89,No,63161,Full-time,On-time,815,No,Not Defaulted
+843,23,Female,Education,4,3.64,84,No,85991,Part-time,On-time,3766,Yes,Not Defaulted
+844,20,Male,Education,3,3.54,87,Yes,39716,Part-time,On-time,11114,No,Not Defaulted
+845,24,Male,Engineering,2,3.22,84,No,63349,Part-time,Late,8945,Yes,Not Defaulted
+846,18,Male,Education,2,2.42,71,No,77098,Unemployed,On-time,4661,No,Defaulted
+847,20,Female,Engineering,1,2.64,98,No,30132,Unemployed,On-time,8653,No,Not Defaulted
+848,21,Male,Science,4,2.49,82,No,81990,Part-time,On-time,3239,No,Not Defaulted
+849,19,Female,Arts,3,1.88,73,No,98921,Full-time,On-time,13942,Yes,Defaulted
+850,23,Male,Engineering,1,3.63,79,Yes,66538,Part-time,On-time,10894,Yes,Not Defaulted
+851,21,Male,Business,1,2.84,82,Yes,37213,Part-time,Late,8272,Yes,Not Defaulted
+852,21,Other,Engineering,2,2.83,79,No,74223,Part-time,Late,2804,No,Not Defaulted
+853,22,Other,Education,3,3.75,98,No,98371,Unemployed,On-time,14225,Yes,Not Defaulted
+854,19,Male,Science,3,2.76,100,No,98274,Part-time,On-time,8031,Yes,Not Defaulted
+855,21,Female,Science,3,2.58,78,No,34134,Part-time,On-time,869,Yes,Not Defaulted
+856,21,Female,Engineering,2,2.89,77,No,69601,Part-time,On-time,5526,No,Not Defaulted
+857,19,Female,Arts,2,2.43,72,No,45690,Part-time,On-time,7741,Yes,Defaulted
+858,19,Male,Business,2,3.17,85,Yes,31909,Unemployed,On-time,13357,No,Defaulted
+859,21,Female,Science,2,2.81,100,Yes,42062,Part-time,On-time,4694,No,Not Defaulted
+860,19,Female,Education,2,2.75,83,No,64731,Part-time,On-time,13922,No,Not Defaulted
+861,21,Female,Education,4,2.7,78,No,35153,Unemployed,On-time,8998,Yes,Defaulted
+862,21,Male,Arts,4,2.95,99,Yes,40481,Part-time,On-time,1934,Yes,Not Defaulted
+863,22,Male,Science,3,3.04,90,No,96425,Unemployed,On-time,5172,Yes,Not Defaulted
+864,18,Male,Engineering,1,2.74,80,No,93600,Unemployed,On-time,703,Yes,Not Defaulted
+865,21,Female,Education,3,2.82,72,No,58205,Part-time,Late,2523,Yes,Not Defaulted
+866,20,Male,Arts,1,2.96,74,Yes,74149,Unemployed,On-time,2639,No,Not Defaulted
+867,23,Female,Science,2,2.91,98,No,79112,Part-time,Late,6159,Yes,Not Defaulted
+868,24,Other,Science,1,3.02,79,Yes,40940,Unemployed,On-time,12774,No,Defaulted
+869,18,Male,Science,3,2.66,82,No,89010,Full-time,On-time,3909,Yes,Not Defaulted
+870,18,Female,Science,3,3.5,73,Yes,54485,Part-time,On-time,12993,No,Not Defaulted
+871,18,Male,Science,1,3.05,93,No,31067,Unemployed,On-time,13813,No,Defaulted
+872,22,Female,Education,4,2.75,82,Yes,50607,Unemployed,Late,1164,No,Not Defaulted
+873,21,Male,Arts,2,3.17,81,No,91597,Unemployed,On-time,619,No,Not Defaulted
+874,22,Female,Science,2,2.96,74,No,78521,Unemployed,On-time,7982,No,Not Defaulted
+875,21,Female,Business,3,2.13,79,Yes,45187,Full-time,On-time,3066,No,Defaulted
+876,22,Female,Business,4,3.17,97,No,33985,Part-time,Late,4872,Yes,Not Defaulted
+877,22,Female,Arts,1,2.49,93,Yes,73052,Part-time,On-time,8638,No,Not Defaulted
+878,23,Female,Engineering,2,3.47,78,No,49563,Full-time,Late,2337,Yes,Defaulted
+879,20,Female,Engineering,4,2.88,89,No,77322,Part-time,Late,8400,Yes,Not Defaulted
+880,22,Female,Engineering,2,3.39,76,No,91245,Unemployed,On-time,5594,Yes,Not Defaulted
+881,23,Female,Business,4,2.68,71,No,81514,Part-time,Late,2460,Yes,Not Defaulted
+882,19,Male,Engineering,4,3.03,91,No,48608,Part-time,Late,6820,Yes,Not Defaulted
+883,20,Female,Education,3,3.61,93,No,97262,Part-time,On-time,5546,Yes,Not Defaulted
+884,22,Female,Science,2,2.87,97,Yes,87225,Unemployed,On-time,14165,Yes,Not Defaulted
+885,24,Female,Business,1,2.7,92,No,47221,Unemployed,On-time,3442,No,Not Defaulted
+886,18,Male,Arts,3,3.33,76,No,78506,Unemployed,On-time,2711,Yes,Not Defaulted
+887,19,Female,Arts,3,3.32,77,Yes,50968,Part-time,On-time,10529,No,Not Defaulted
+888,19,Male,Science,1,2.73,76,No,57937,Unemployed,On-time,1291,Yes,Not Defaulted
+889,23,Female,Business,3,2.01,90,Yes,92435,Part-time,On-time,10390,No,Not Defaulted
+890,19,Male,Engineering,4,2.69,92,No,79508,Unemployed,On-time,14030,No,Not Defaulted
+891,20,Female,Engineering,4,3.34,98,Yes,71831,Unemployed,On-time,5374,No,Not Defaulted
+892,22,Other,Education,2,2.61,83,No,72933,Part-time,Late,9592,No,Not Defaulted
+893,22,Male,Education,2,2.99,95,No,77307,Full-time,Late,13964,Yes,Not Defaulted
+894,24,Other,Engineering,1,2.67,88,Yes,78340,Unemployed,On-time,13142,No,Not Defaulted
+895,18,Male,Arts,2,2.03,74,Yes,73601,Part-time,On-time,13669,No,Defaulted
+896,23,Female,Arts,4,2.66,92,No,58754,Unemployed,On-time,2655,No,Not Defaulted
+897,18,Female,Education,1,3.34,100,No,73310,Full-time,Late,12204,No,Not Defaulted
+898,19,Female,Science,1,1.81,94,Yes,99893,Part-time,On-time,6513,Yes,Not Defaulted
+899,24,Female,Engineering,2,3.13,100,Yes,78367,Part-time,On-time,7394,No,Not Defaulted
+900,18,Female,Education,4,2.41,87,No,43201,Full-time,Late,704,Yes,Defaulted
+901,20,Male,Education,1,3.3,89,No,32739,Full-time,Late,825,No,Not Defaulted
+902,22,Male,Engineering,4,3.36,81,No,43231,Full-time,Late,9196,Yes,Not Defaulted
+903,19,Female,Engineering,4,2.91,92,No,72495,Unemployed,Late,11652,No,Defaulted
+904,24,Female,Arts,4,2.92,86,Yes,51168,Full-time,On-time,376,Yes,Not Defaulted
+905,18,Female,Science,2,2.6,82,No,62624,Unemployed,On-time,972,Yes,Not Defaulted
+906,23,Female,Science,3,2.33,71,No,40635,Unemployed,On-time,4213,No,Defaulted
+907,20,Male,Engineering,3,3.85,94,Yes,39964,Unemployed,On-time,11268,No,Defaulted
+908,20,Female,Business,1,2.57,82,No,57785,Part-time,Late,443,No,Not Defaulted
+909,18,Male,Education,4,3.78,95,No,42336,Part-time,On-time,7519,Yes,Not Defaulted
+910,22,Female,Education,2,2.57,76,No,57412,Part-time,On-time,754,Yes,Not Defaulted
+911,18,Male,Engineering,4,3.26,97,No,75591,Unemployed,Late,11796,No,Defaulted
+912,19,Male,Business,4,2.43,79,Yes,91750,Unemployed,On-time,4735,No,Defaulted
+913,18,Male,Arts,2,3.26,92,No,65454,Part-time,Late,10363,No,Not Defaulted
+914,20,Male,Engineering,3,2.84,75,No,92672,Part-time,Late,10897,Yes,Defaulted
+915,24,Female,Engineering,4,2.84,72,Yes,57228,Unemployed,On-time,5396,No,Not Defaulted
+916,18,Male,Education,4,3.31,95,No,44429,Part-time,On-time,3465,Yes,Not Defaulted
+917,22,Male,Engineering,3,2.77,72,No,97808,Unemployed,On-time,2711,No,Not Defaulted
+918,24,Male,Engineering,2,2.29,87,No,83015,Unemployed,On-time,2407,Yes,Not Defaulted
+919,23,Male,Engineering,1,3.38,80,No,98936,Unemployed,On-time,8814,Yes,Not Defaulted
+920,21,Male,Education,3,2.43,91,No,87378,Part-time,On-time,5588,No,Not Defaulted
+921,18,Male,Arts,1,3.26,89,No,67310,Part-time,Late,6104,No,Not Defaulted
+922,22,Female,Arts,1,3.49,74,No,98827,Unemployed,On-time,5747,Yes,Not Defaulted
+923,24,Female,Engineering,3,2.81,88,No,65256,Unemployed,Late,1723,Yes,Not Defaulted
+924,22,Female,Education,4,3.59,91,Yes,68889,Full-time,On-time,7224,Yes,Not Defaulted
+925,23,Male,Arts,1,3.24,96,No,81428,Part-time,On-time,11514,No,Not Defaulted
+926,20,Male,Arts,1,2.65,97,No,67207,Unemployed,Late,1919,Yes,Not Defaulted
+927,22,Female,Arts,2,3.7,88,No,80255,Unemployed,On-time,918,Yes,Not Defaulted
+928,24,Female,Education,4,2.43,99,No,35409,Unemployed,On-time,13461,No,Defaulted
+929,22,Male,Education,1,2.81,84,No,72438,Unemployed,On-time,14787,No,Not Defaulted
+930,22,Male,Engineering,2,2.9,99,No,37869,Part-time,Late,13473,No,Defaulted
+931,22,Male,Science,4,3.3,85,Yes,86862,Part-time,On-time,4215,No,Not Defaulted
+932,19,Male,Arts,3,3.56,93,Yes,55958,Unemployed,On-time,581,No,Not Defaulted
+933,19,Male,Science,3,3.53,78,No,49768,Unemployed,On-time,14235,No,Defaulted
+934,20,Female,Education,2,3.11,73,No,56145,Part-time,Late,14434,No,Defaulted
+935,18,Female,Education,3,2.86,84,Yes,56442,Part-time,Late,13478,No,Not Defaulted
+936,22,Female,Education,1,2.09,94,Yes,55596,Unemployed,On-time,3881,Yes,Not Defaulted
+937,23,Female,Science,4,2.34,81,No,72406,Part-time,Late,9878,No,Not Defaulted
+938,18,Female,Education,1,3.88,92,No,70524,Part-time,On-time,3909,Yes,Not Defaulted
+939,23,Female,Engineering,1,2.08,72,No,53332,Unemployed,On-time,1999,Yes,Defaulted
+940,18,Female,Education,3,2.61,92,No,45764,Unemployed,On-time,14849,Yes,Defaulted
+941,20,Male,Business,1,3.57,83,Yes,57563,Unemployed,On-time,10903,Yes,Not Defaulted
+942,22,Male,Science,3,3.1,86,No,66370,Part-time,On-time,400,No,Not Defaulted
+943,22,Male,Business,4,3.46,88,No,35062,Unemployed,On-time,14700,No,Defaulted
+944,21,Female,Education,4,3.27,75,No,74645,Unemployed,On-time,3648,No,Not Defaulted
+945,23,Female,Engineering,1,3.73,73,Yes,37244,Unemployed,Late,5445,No,Defaulted
+946,18,Male,Arts,2,3.15,76,Yes,36372,Unemployed,On-time,2628,Yes,Defaulted
+947,18,Female,Education,3,3.33,99,Yes,94471,Part-time,On-time,1656,Yes,Not Defaulted
+948,19,Male,Engineering,3,2.64,88,No,46956,Part-time,Late,620,No,Not Defaulted
+949,21,Female,Science,1,3.29,86,No,70473,Part-time,On-time,246,No,Not Defaulted
+950,24,Male,Business,3,2.8,94,No,43894,Part-time,On-time,14769,Yes,Not Defaulted
+951,24,Male,Business,3,2.77,85,No,99586,Unemployed,Late,5212,No,Not Defaulted
+952,19,Female,Business,2,3.45,84,No,46709,Unemployed,On-time,3339,Yes,Not Defaulted
+953,19,Male,Science,2,3.45,91,No,45210,Unemployed,On-time,6758,Yes,Not Defaulted
+954,19,Male,Engineering,1,3.84,77,Yes,79510,Unemployed,On-time,7086,Yes,Not Defaulted
+955,23,Male,Science,2,3.81,88,No,68674,Part-time,Late,3010,Yes,Not Defaulted
+956,23,Female,Business,1,3.46,77,No,47733,Full-time,On-time,4719,No,Not Defaulted
+957,20,Female,Education,4,2.14,87,No,50080,Part-time,Late,2368,No,Not Defaulted
+958,20,Male,Arts,1,3.91,97,No,83412,Part-time,On-time,12186,Yes,Not Defaulted
+959,19,Female,Science,4,3.46,85,No,88971,Part-time,On-time,1839,No,Not Defaulted
+960,21,Female,Science,1,2.62,89,No,69709,Unemployed,Late,2903,No,Not Defaulted
+961,18,Male,Engineering,3,3.36,88,No,89846,Unemployed,On-time,6205,Yes,Not Defaulted
+962,23,Male,Engineering,2,2.48,79,No,95480,Part-time,On-time,4395,Yes,Not Defaulted
+963,21,Male,Science,4,3.31,86,No,82960,Part-time,On-time,12690,No,Not Defaulted
+964,22,Male,Business,1,2.34,100,No,71152,Unemployed,Late,5767,No,Defaulted
+965,23,Female,Arts,2,2.6,82,Yes,57250,Part-time,On-time,3691,No,Not Defaulted
+966,23,Male,Engineering,1,3.35,82,No,78137,Unemployed,On-time,7470,Yes,Not Defaulted
+967,20,Female,Business,2,3.54,76,No,76412,Unemployed,On-time,3841,No,Not Defaulted
+968,18,Female,Education,2,3.16,96,Yes,73876,Unemployed,Late,4348,Yes,Not Defaulted
+969,18,Male,Engineering,1,2.86,79,Yes,80227,Full-time,On-time,14045,Yes,Not Defaulted
+970,24,Female,Business,4,1.94,71,Yes,62450,Unemployed,On-time,6621,No,Defaulted
+971,24,Male,Business,4,2.9,73,No,36861,Full-time,On-time,1392,Yes,Not Defaulted
+972,24,Other,Arts,3,3.27,94,No,91914,Unemployed,On-time,11942,Yes,Not Defaulted
+973,24,Female,Arts,2,2.84,75,No,93888,Full-time,On-time,6060,Yes,Not Defaulted
+974,22,Female,Education,3,2.99,93,No,91293,Part-time,On-time,4255,Yes,Not Defaulted
+975,22,Female,Business,3,2.91,87,No,98515,Unemployed,On-time,11200,No,Not Defaulted
+976,23,Male,Business,1,2.84,92,No,53524,Unemployed,Late,4300,Yes,Not Defaulted
+977,19,Female,Arts,1,3.04,75,No,37065,Unemployed,Late,3338,Yes,Defaulted
+978,20,Female,Engineering,1,2.86,98,No,67684,Unemployed,On-time,13449,Yes,Not Defaulted
+979,20,Female,Engineering,2,3.72,99,Yes,63365,Unemployed,Late,5487,Yes,Not Defaulted
+980,24,Female,Science,1,1.9,94,No,88876,Part-time,On-time,3514,No,Not Defaulted
+981,23,Female,Arts,1,2.73,92,No,53704,Unemployed,Late,13145,Yes,Defaulted
+982,21,Male,Science,2,2.56,86,No,87857,Unemployed,On-time,759,No,Not Defaulted
+983,19,Male,Arts,2,3.11,83,No,35622,Unemployed,On-time,13878,Yes,Defaulted
+984,23,Female,Education,4,3.04,93,No,96201,Unemployed,Late,10960,Yes,Defaulted
+985,19,Male,Business,1,3.81,80,Yes,62694,Part-time,Late,11280,No,Not Defaulted
+986,19,Female,Education,1,3.98,95,No,52995,Unemployed,On-time,10307,No,Not Defaulted
+987,19,Female,Arts,1,2.61,100,Yes,38419,Part-time,On-time,12420,Yes,Not Defaulted
+988,23,Male,Business,4,3.0,88,No,77952,Part-time,On-time,9915,No,Not Defaulted
+989,24,Male,Engineering,1,3.1,99,No,63837,Unemployed,On-time,11158,Yes,Not Defaulted
+990,20,Female,Engineering,4,2.6,71,No,78877,Part-time,On-time,8621,No,Not Defaulted
+991,20,Male,Science,3,3.31,97,No,75687,Unemployed,On-time,10547,No,Not Defaulted
+992,24,Female,Arts,4,2.88,72,No,67276,Part-time,Late,6793,No,Not Defaulted
+993,19,Male,Arts,3,2.47,80,No,64523,Part-time,On-time,13485,No,Not Defaulted
+994,21,Female,Engineering,1,2.86,75,No,96055,Unemployed,On-time,2459,Yes,Not Defaulted
+995,18,Male,Education,3,2.5,98,No,84615,Unemployed,On-time,12384,No,Not Defaulted
+996,23,Female,Business,4,3.52,83,No,40514,Unemployed,On-time,13994,Yes,Defaulted
+997,18,Male,Education,2,3.95,88,No,77456,Unemployed,On-time,5273,Yes,Not Defaulted
+998,24,Female,Education,3,3.12,95,Yes,37233,Unemployed,On-time,1718,Yes,Not Defaulted
+999,21,Male,Engineering,3,3.06,85,No,31102,Part-time,Late,9457,Yes,Not Defaulted
+1000,23,Female,Engineering,1,3.08,90,No,96133,Part-time,Late,5423,No,Not Defaulted
